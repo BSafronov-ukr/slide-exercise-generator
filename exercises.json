@@ -126,6 +126,16 @@
         60,
         61,
         62
+      ],
+      "answerParts": [
+        {
+          "label": "Resultant magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Resultant direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -135,6 +145,16 @@
       "slides": [
         63,
         64
+      ],
+      "answerParts": [
+        {
+          "label": "Resultant displacement magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Resultant displacement direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -144,6 +164,32 @@
       "slides": [
         65,
         66
+      ],
+      "answerParts": [
+        {
+          "label": "A — vector sum",
+          "keyIndex": null
+        },
+        {
+          "label": "B — vector difference",
+          "keyIndex": null
+        },
+        {
+          "label": "C — sum magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "D — difference magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "E — sum direction",
+          "keyIndex": null
+        },
+        {
+          "label": "E — difference direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -153,6 +199,16 @@
       "slides": [
         67,
         68
+      ],
+      "answerParts": [
+        {
+          "label": "A — displacement parallel to slope",
+          "keyIndex": null
+        },
+        {
+          "label": "B — displacement perpendicular to slope",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -162,6 +218,16 @@
       "slides": [
         69,
         70
+      ],
+      "answerParts": [
+        {
+          "label": "Vector C x component",
+          "keyIndex": null
+        },
+        {
+          "label": "Vector C y component",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -171,6 +237,20 @@
       "slides": [
         71,
         72
+      ],
+      "answerParts": [
+        {
+          "label": "A — resultant vector",
+          "keyIndex": null
+        },
+        {
+          "label": "B — resultant magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "B — resultant direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -180,6 +260,20 @@
       "slides": [
         73,
         74
+      ],
+      "answerParts": [
+        {
+          "label": "Resultant displacement vector",
+          "keyIndex": null
+        },
+        {
+          "label": "Displacement magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Displacement direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -211,7 +305,17 @@
         "relativeTolerance": 0.02,
         "absoluteTolerance": 1e-06,
         "display": "A dot B: 4"
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — scalar product",
+          "keyIndex": 0
+        },
+        {
+          "label": "B — angle between vectors",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 1,
@@ -238,6 +342,20 @@
       "slides": [
         84,
         85
+      ],
+      "answerParts": [
+        {
+          "label": "A — angle between first pair",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angle between second pair",
+          "keyIndex": null
+        },
+        {
+          "label": "C — angle between third pair",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -281,6 +399,16 @@
       "slides": [
         96,
         97
+      ],
+      "answerParts": [
+        {
+          "label": "Vector product",
+          "keyIndex": null
+        },
+        {
+          "label": "Verification of reversed-product sign",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -394,6 +522,28 @@
         23,
         24,
         25
+      ],
+      "answerParts": [
+        {
+          "label": "A — displacement, first interval",
+          "keyIndex": null
+        },
+        {
+          "label": "A — displacement, second interval",
+          "keyIndex": null
+        },
+        {
+          "label": "B — average velocity, first interval",
+          "keyIndex": null
+        },
+        {
+          "label": "B — average velocity, second interval",
+          "keyIndex": null
+        },
+        {
+          "label": "C — instantaneous velocity",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -404,6 +554,16 @@
         29,
         30,
         31
+      ],
+      "answerParts": [
+        {
+          "label": "A — runner velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "B — final position",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -463,6 +623,16 @@
         40,
         41,
         42
+      ],
+      "answerParts": [
+        {
+          "label": "Velocity versus time graph or description",
+          "keyIndex": null
+        },
+        {
+          "label": "Acceleration versus time graph or description",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -473,6 +643,16 @@
         43,
         44,
         45
+      ],
+      "answerParts": [
+        {
+          "label": "A — average acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "B — instantaneous acceleration",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -504,7 +684,21 @@
         "relativeTolerance": 0.02,
         "absoluteTolerance": 1e-06,
         "display": "part A acceleration (m/s²): -31.5"
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — acceleration (m/s²)",
+          "keyIndex": 0
+        },
+        {
+          "label": "B — final position",
+          "keyIndex": null
+        },
+        {
+          "label": "Follow-up — effect of greater landing speed",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 2,
@@ -549,6 +743,28 @@
       "slides": [
         63,
         64
+      ],
+      "answerParts": [
+        {
+          "label": "A — average velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "B — average velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "C — average velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "D — average velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "E — average velocity",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -558,6 +774,16 @@
       "slides": [
         65,
         66
+      ],
+      "answerParts": [
+        {
+          "label": "A — time to buoy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — velocity at buoy",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -615,6 +841,32 @@
         88,
         89,
         90
+      ],
+      "answerParts": [
+        {
+          "label": "A — time to maximum height",
+          "keyIndex": null
+        },
+        {
+          "label": "B — maximum rise",
+          "keyIndex": null
+        },
+        {
+          "label": "C — velocity at launch height",
+          "keyIndex": null
+        },
+        {
+          "label": "D — velocity at the stated time",
+          "keyIndex": null
+        },
+        {
+          "label": "D — position at the stated time",
+          "keyIndex": null
+        },
+        {
+          "label": "Follow-up — effect of changing building height",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -709,6 +961,16 @@
       "slides": [
         98,
         99
+      ],
+      "answerParts": [
+        {
+          "label": "A — launch velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "B — velocity before catch",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -718,6 +980,16 @@
       "slides": [
         100,
         101
+      ],
+      "answerParts": [
+        {
+          "label": "A — required horizontal distance",
+          "keyIndex": null
+        },
+        {
+          "label": "B — time in air",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -727,6 +999,20 @@
       "slides": [
         102,
         103
+      ],
+      "answerParts": [
+        {
+          "label": "A — catch-up time",
+          "keyIndex": null
+        },
+        {
+          "label": "B — officer speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — officer displacement",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -758,7 +1044,17 @@
         "relativeTolerance": 0.02,
         "absoluteTolerance": 1e-06,
         "display": "part A range (m): 7.94"
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — horizontal range (m)",
+          "keyIndex": 0
+        },
+        {
+          "label": "B — maximum height",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 3,
@@ -836,6 +1132,16 @@
       "slides": [
         51,
         52
+      ],
+      "answerParts": [
+        {
+          "label": "A — velocity leaving counter",
+          "keyIndex": null
+        },
+        {
+          "label": "B — velocity direction before impact",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -859,7 +1165,17 @@
         "relativeTolerance": 0.02,
         "absoluteTolerance": 1e-06,
         "display": "part A flight time (s): 4.22"
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — flight time (s)",
+          "keyIndex": 0
+        },
+        {
+          "label": "B — impact speed",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 3,
@@ -877,6 +1193,20 @@
       "slides": [
         59,
         60
+      ],
+      "answerParts": [
+        {
+          "label": "A — horizontal distance",
+          "keyIndex": null
+        },
+        {
+          "label": "B — launch height",
+          "keyIndex": null
+        },
+        {
+          "label": "C — time to stated level",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -895,6 +1225,16 @@
       "slides": [
         63,
         64
+      ],
+      "answerParts": [
+        {
+          "label": "A — clearance or shortfall",
+          "keyIndex": null
+        },
+        {
+          "label": "B — rising or falling",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -903,6 +1243,20 @@
       "type": "Problem",
       "slides": [
         65
+      ],
+      "answerParts": [
+        {
+          "label": "A — launch speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — wall clearance",
+          "keyIndex": null
+        },
+        {
+          "label": "C — horizontal landing distance",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -957,6 +1311,16 @@
         88,
         89,
         90
+      ],
+      "answerParts": [
+        {
+          "label": "Total acceleration magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Total acceleration direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1040,6 +1404,20 @@
       "slides": [
         105,
         106
+      ],
+      "answerParts": [
+        {
+          "label": "A — radial acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "B — speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — tangential acceleration",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1049,6 +1427,16 @@
       "slides": [
         107,
         108
+      ],
+      "answerParts": [
+        {
+          "label": "Acceleration magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Acceleration direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1060,6 +1448,20 @@
         115,
         116,
         117
+      ],
+      "answerParts": [
+        {
+          "label": "A — boat speed relative to Earth",
+          "keyIndex": null
+        },
+        {
+          "label": "A — boat direction relative to Earth",
+          "keyIndex": null
+        },
+        {
+          "label": "B — heading",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1069,6 +1471,16 @@
       "slides": [
         39,
         40
+      ],
+      "answerParts": [
+        {
+          "label": "A — resultant force vector",
+          "keyIndex": null
+        },
+        {
+          "label": "B — resultant force magnitude",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1079,6 +1491,36 @@
         41,
         42,
         43
+      ],
+      "answerParts": [
+        {
+          "label": "A — velocity x component",
+          "keyIndex": null
+        },
+        {
+          "label": "A — velocity y component",
+          "keyIndex": null
+        },
+        {
+          "label": "B — motion direction",
+          "keyIndex": null
+        },
+        {
+          "label": "C — displacement x component",
+          "keyIndex": null
+        },
+        {
+          "label": "C — displacement y component",
+          "keyIndex": null
+        },
+        {
+          "label": "D — final x coordinate",
+          "keyIndex": null
+        },
+        {
+          "label": "D — final y coordinate",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1141,6 +1583,20 @@
       "slides": [
         71,
         72
+      ],
+      "answerParts": [
+        {
+          "label": "A — floor force",
+          "keyIndex": null
+        },
+        {
+          "label": "B — floor force with first hanging object",
+          "keyIndex": null
+        },
+        {
+          "label": "C — floor force with replacement object",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1173,6 +1629,20 @@
         92,
         93,
         94
+      ],
+      "answerParts": [
+        {
+          "label": "A — acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "B — time to bottom",
+          "keyIndex": null
+        },
+        {
+          "label": "B — speed at bottom",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1196,6 +1666,20 @@
         102,
         103,
         104
+      ],
+      "answerParts": [
+        {
+          "label": "A — system acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "B — contact force",
+          "keyIndex": null
+        },
+        {
+          "label": "Follow-up — contact force when applied force is reversed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1205,6 +1689,24 @@
       "slides": [
         105,
         106
+      ],
+      "answerParts": [
+        {
+          "label": "Scale reading in diagram A",
+          "keyIndex": null
+        },
+        {
+          "label": "Scale reading in diagram B",
+          "keyIndex": null
+        },
+        {
+          "label": "Scale reading in diagram C",
+          "keyIndex": null
+        },
+        {
+          "label": "Scale reading in diagram D",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1214,6 +1716,16 @@
       "slides": [
         107,
         108
+      ],
+      "answerParts": [
+        {
+          "label": "Other force magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Other force direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1223,6 +1735,24 @@
       "slides": [
         109,
         110
+      ],
+      "answerParts": [
+        {
+          "label": "A — force diagrams or description",
+          "keyIndex": null
+        },
+        {
+          "label": "B — acceleration magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "C — string tension",
+          "keyIndex": null
+        },
+        {
+          "label": "D — speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1270,6 +1800,24 @@
       "type": "Problem",
       "slides": [
         133
+      ],
+      "answerParts": [
+        {
+          "label": "A — force diagram or description",
+          "keyIndex": null
+        },
+        {
+          "label": "B — normal force",
+          "keyIndex": null
+        },
+        {
+          "label": "C — frictional force",
+          "keyIndex": null
+        },
+        {
+          "label": "D — acceleration",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1279,6 +1827,16 @@
       "slides": [
         135,
         136
+      ],
+      "answerParts": [
+        {
+          "label": "A — static friction coefficient",
+          "keyIndex": null
+        },
+        {
+          "label": "B — kinetic friction coefficient",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1288,6 +1846,20 @@
       "slides": [
         137,
         138
+      ],
+      "answerParts": [
+        {
+          "label": "A — force diagram or description",
+          "keyIndex": null
+        },
+        {
+          "label": "B — strap angle",
+          "keyIndex": null
+        },
+        {
+          "label": "C — normal-force magnitude",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1298,6 +1870,24 @@
         139,
         140,
         141
+      ],
+      "answerParts": [
+        {
+          "label": "A — acceleration magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "B — kinetic friction coefficient",
+          "keyIndex": null
+        },
+        {
+          "label": "C — friction force",
+          "keyIndex": null
+        },
+        {
+          "label": "D — speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1318,7 +1908,25 @@
             17
           ]
         ]
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — first block force diagram",
+          "keyIndex": null
+        },
+        {
+          "label": "A — second block force diagram",
+          "keyIndex": null
+        },
+        {
+          "label": "B — system acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "C — rope tension",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 4,
@@ -1327,6 +1935,36 @@
       "slides": [
         145,
         146
+      ],
+      "answerParts": [
+        {
+          "label": "A — pulley force diagrams or description",
+          "keyIndex": null
+        },
+        {
+          "label": "B — tension T1",
+          "keyIndex": null
+        },
+        {
+          "label": "B — tension T2",
+          "keyIndex": null
+        },
+        {
+          "label": "B — tension T3",
+          "keyIndex": null
+        },
+        {
+          "label": "B — tension T4",
+          "keyIndex": null
+        },
+        {
+          "label": "B — tension T5",
+          "keyIndex": null
+        },
+        {
+          "label": "C — applied force magnitude",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1551,6 +2189,20 @@
         25,
         26,
         27
+      ],
+      "answerParts": [
+        {
+          "label": "A — seat force at bottom",
+          "keyIndex": null
+        },
+        {
+          "label": "B — seat force at top",
+          "keyIndex": null
+        },
+        {
+          "label": "Follow-up — what happens at the greater speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1560,6 +2212,20 @@
       "slides": [
         28,
         29
+      ],
+      "answerParts": [
+        {
+          "label": "A — acceleration vector at B",
+          "keyIndex": null
+        },
+        {
+          "label": "B — average speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — average acceleration vector",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1569,6 +2235,16 @@
       "slides": [
         30,
         31
+      ],
+      "answerParts": [
+        {
+          "label": "A — source of centripetal force",
+          "keyIndex": null
+        },
+        {
+          "label": "B — static friction coefficient",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1600,6 +2276,24 @@
         40,
         41,
         42
+      ],
+      "answerParts": [
+        {
+          "label": "Tangential acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "String tension",
+          "keyIndex": null
+        },
+        {
+          "label": "A — speed at the top",
+          "keyIndex": null
+        },
+        {
+          "label": "B — what happens below that speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1609,6 +2303,16 @@
       "slides": [
         43,
         44
+      ],
+      "answerParts": [
+        {
+          "label": "A — child speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — seat force",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1618,6 +2322,16 @@
       "slides": [
         45,
         46
+      ],
+      "answerParts": [
+        {
+          "label": "A — track force",
+          "keyIndex": null
+        },
+        {
+          "label": "B — maximum speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1628,6 +2342,32 @@
         47,
         48,
         49
+      ],
+      "answerParts": [
+        {
+          "label": "A — string tension",
+          "keyIndex": null
+        },
+        {
+          "label": "B — tangential acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "B — radial acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "C — total acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "D — whether motion direction changes the result",
+          "keyIndex": null
+        },
+        {
+          "label": "E — explanation",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1637,6 +2377,24 @@
       "slides": [
         55,
         56
+      ],
+      "answerParts": [
+        {
+          "label": "A — car acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "B — scale reading at constant velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "C — forces in the car frame",
+          "keyIndex": null
+        },
+        {
+          "label": "D — forces in the ground frame",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1646,6 +2404,16 @@
       "slides": [
         57,
         58
+      ],
+      "answerParts": [
+        {
+          "label": "A — string angle",
+          "keyIndex": null
+        },
+        {
+          "label": "B — string tension",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1712,6 +2480,24 @@
       "slides": [
         25,
         26
+      ],
+      "answerParts": [
+        {
+          "label": "A — applied-force work",
+          "keyIndex": null
+        },
+        {
+          "label": "B — normal-force work",
+          "keyIndex": null
+        },
+        {
+          "label": "C — gravitational work",
+          "keyIndex": null
+        },
+        {
+          "label": "D — net work",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1730,6 +2516,24 @@
       "slides": [
         38,
         39
+      ],
+      "answerParts": [
+        {
+          "label": "A — work in first interval",
+          "keyIndex": null
+        },
+        {
+          "label": "B — work in second interval",
+          "keyIndex": null
+        },
+        {
+          "label": "C — work in third interval",
+          "keyIndex": null
+        },
+        {
+          "label": "D — total work",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1761,7 +2565,17 @@
         "relativeTolerance": 0.02,
         "absoluteTolerance": 1e-06,
         "display": "A dot B: 4"
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — scalar product",
+          "keyIndex": 0
+        },
+        {
+          "label": "B — angle between vectors",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 6,
@@ -1818,6 +2632,20 @@
       "slides": [
         48,
         49
+      ],
+      "answerParts": [
+        {
+          "label": "A — angle between first pair",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angle between second pair",
+          "keyIndex": null
+        },
+        {
+          "label": "C — angle between third pair",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1836,6 +2664,20 @@
       "slides": [
         59,
         60
+      ],
+      "answerParts": [
+        {
+          "label": "A — initial kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — final speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — net work",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1855,7 +2697,21 @@
             60
           ]
         ]
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — speed at first position",
+          "keyIndex": null
+        },
+        {
+          "label": "B — speed at second position",
+          "keyIndex": null
+        },
+        {
+          "label": "C — speed at third position",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 6,
@@ -1882,6 +2738,16 @@
         73,
         74,
         75
+      ],
+      "answerParts": [
+        {
+          "label": "A — spring constant",
+          "keyIndex": null
+        },
+        {
+          "label": "B — work done by spring",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1891,6 +2757,16 @@
       "slides": [
         76,
         77
+      ],
+      "answerParts": [
+        {
+          "label": "A — spring extension",
+          "keyIndex": null
+        },
+        {
+          "label": "B — external work",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1925,6 +2801,16 @@
         86,
         87,
         88
+      ],
+      "answerParts": [
+        {
+          "label": "Potential-energy change, floor origin",
+          "keyIndex": null
+        },
+        {
+          "label": "Potential-energy change, head origin",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1934,6 +2820,20 @@
       "slides": [
         89,
         90
+      ],
+      "answerParts": [
+        {
+          "label": "A — potential energy with horizontal ropes",
+          "keyIndex": null
+        },
+        {
+          "label": "B — potential energy at stated angle",
+          "keyIndex": null
+        },
+        {
+          "label": "C — potential energy at bottom",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1959,6 +2859,24 @@
       "slides": [
         105,
         106
+      ],
+      "answerParts": [
+        {
+          "label": "A — work along purple path",
+          "keyIndex": null
+        },
+        {
+          "label": "B — work along red path",
+          "keyIndex": null
+        },
+        {
+          "label": "C — work along blue path",
+          "keyIndex": null
+        },
+        {
+          "label": "D — explanation",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1969,6 +2887,16 @@
         110,
         111,
         112
+      ],
+      "answerParts": [
+        {
+          "label": "Potential-energy graph or description",
+          "keyIndex": null
+        },
+        {
+          "label": "Most likely atomic separation",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1978,6 +2906,20 @@
       "slides": [
         117,
         118
+      ],
+      "answerParts": [
+        {
+          "label": "A — force work",
+          "keyIndex": null
+        },
+        {
+          "label": "B — potential-energy change",
+          "keyIndex": null
+        },
+        {
+          "label": "C — final kinetic energy",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -1987,6 +2929,44 @@
       "slides": [
         119,
         120
+      ],
+      "answerParts": [
+        {
+          "label": "A — force sign at first point",
+          "keyIndex": null
+        },
+        {
+          "label": "A — force sign at second point",
+          "keyIndex": null
+        },
+        {
+          "label": "A — force sign at third point",
+          "keyIndex": null
+        },
+        {
+          "label": "A — force sign at fourth point",
+          "keyIndex": null
+        },
+        {
+          "label": "A — force sign at fifth point",
+          "keyIndex": null
+        },
+        {
+          "label": "B — stable equilibrium points",
+          "keyIndex": null
+        },
+        {
+          "label": "B — unstable equilibrium points",
+          "keyIndex": null
+        },
+        {
+          "label": "B — neutral equilibrium points",
+          "keyIndex": null
+        },
+        {
+          "label": "C — force graph or description",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2028,6 +3008,16 @@
         134,
         135,
         136
+      ],
+      "answerParts": [
+        {
+          "label": "A — power at constant speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — power during upward acceleration",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2089,6 +3079,16 @@
         24,
         25,
         26
+      ],
+      "answerParts": [
+        {
+          "label": "A — speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — normal force",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2098,6 +3098,20 @@
       "slides": [
         27,
         28
+      ],
+      "answerParts": [
+        {
+          "label": "A — speed at first point",
+          "keyIndex": null
+        },
+        {
+          "label": "A — speed at second point",
+          "keyIndex": null
+        },
+        {
+          "label": "B — gravitational work",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2107,6 +3121,16 @@
       "slides": [
         29,
         30
+      ],
+      "answerParts": [
+        {
+          "label": "A — speed at impact time",
+          "keyIndex": null
+        },
+        {
+          "label": "B — maximum height",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2135,6 +3159,20 @@
         32,
         33,
         34
+      ],
+      "answerParts": [
+        {
+          "label": "A — spring potential energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — speed at equilibrium",
+          "keyIndex": null
+        },
+        {
+          "label": "C — speed at half displacement",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2145,6 +3183,20 @@
         35,
         36,
         37
+      ],
+      "answerParts": [
+        {
+          "label": "First example — final block speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Spring example A — speed without friction",
+          "keyIndex": null
+        },
+        {
+          "label": "Spring example B — speed with friction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2153,6 +3205,16 @@
       "type": "Problem",
       "slides": [
         38
+      ],
+      "answerParts": [
+        {
+          "label": "A — speed without friction",
+          "keyIndex": null
+        },
+        {
+          "label": "B — speed with friction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2205,7 +3267,25 @@
         "relativeTolerance": 0.02,
         "absoluteTolerance": 1e-06,
         "display": "coefficient of kinetic friction: 0.6794"
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — kinetic-energy change",
+          "keyIndex": null
+        },
+        {
+          "label": "B — potential-energy change",
+          "keyIndex": null
+        },
+        {
+          "label": "C — friction force",
+          "keyIndex": null
+        },
+        {
+          "label": "D — kinetic friction coefficient",
+          "keyIndex": 0
+        }
+      ]
     },
     {
       "deck": 7,
@@ -2215,6 +3295,16 @@
         47,
         48,
         49
+      ],
+      "answerParts": [
+        {
+          "label": "A — travel distance without friction",
+          "keyIndex": null
+        },
+        {
+          "label": "B — travel distance with friction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2224,6 +3314,28 @@
       "slides": [
         50,
         51
+      ],
+      "answerParts": [
+        {
+          "label": "A — gravitational potential energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "C — speed",
+          "keyIndex": null
+        },
+        {
+          "label": "D — kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "D — potential energy",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2252,6 +3364,20 @@
         56,
         57,
         58
+      ],
+      "answerParts": [
+        {
+          "label": "A — spring compression",
+          "keyIndex": null
+        },
+        {
+          "label": "B — predicted top speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — whether the block reaches the top",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2269,6 +3395,16 @@
       "type": "Problem",
       "slides": [
         24
+      ],
+      "answerParts": [
+        {
+          "label": "A — impulse magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "B — average force",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2416,7 +3552,17 @@
             13
           ]
         ]
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — greater mass and reasoning",
+          "keyIndex": null
+        },
+        {
+          "label": "B — mass ratio",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 8,
@@ -2494,6 +3640,20 @@
         61,
         62,
         63
+      ],
+      "answerParts": [
+        {
+          "label": "A — final velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "B — initial kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — final kinetic energy",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2522,6 +3682,20 @@
         81,
         82,
         83
+      ],
+      "answerParts": [
+        {
+          "label": "A — first ball final velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "A — second ball final velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "B — common final velocity",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2531,7 +3705,17 @@
       "slides": [
         84
       ],
-      "removeAnswerLines": true
+      "removeAnswerLines": true,
+      "answerParts": [
+        {
+          "label": "A — car final velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "B — van final velocity",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 8,
@@ -2554,6 +3738,24 @@
         91,
         92,
         93
+      ],
+      "answerParts": [
+        {
+          "label": "A — first block final velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "A — second block final velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "B — second block velocity during collision",
+          "keyIndex": null
+        },
+        {
+          "label": "C — spring compression at that instant",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2598,6 +3800,20 @@
         104,
         105,
         106
+      ],
+      "answerParts": [
+        {
+          "label": "First proton final speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Second proton final speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Deflection angle",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2607,6 +3823,16 @@
       "slides": [
         107,
         108
+      ],
+      "answerParts": [
+        {
+          "label": "Orange disk final speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Yellow disk final speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2618,6 +3844,16 @@
         123,
         124,
         125
+      ],
+      "answerParts": [
+        {
+          "label": "A — uniform rod center-of-mass proof",
+          "keyIndex": null
+        },
+        {
+          "label": "B — nonuniform rod center-of-mass coordinate",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2628,6 +3864,16 @@
         126,
         127,
         128
+      ],
+      "answerParts": [
+        {
+          "label": "Center of mass x coordinate",
+          "keyIndex": null
+        },
+        {
+          "label": "Center of mass y coordinate",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2673,6 +3919,16 @@
       "slides": [
         142,
         143
+      ],
+      "answerParts": [
+        {
+          "label": "Third fragment velocity x component",
+          "keyIndex": null
+        },
+        {
+          "label": "Third fragment velocity y component",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2685,6 +3941,24 @@
         146,
         147,
         148
+      ],
+      "answerParts": [
+        {
+          "label": "A — center-of-mass velocity x component",
+          "keyIndex": null
+        },
+        {
+          "label": "A — center-of-mass velocity y component",
+          "keyIndex": null
+        },
+        {
+          "label": "B — total momentum x component",
+          "keyIndex": null
+        },
+        {
+          "label": "B — total momentum y component",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2695,6 +3969,16 @@
         154,
         155,
         156
+      ],
+      "answerParts": [
+        {
+          "label": "A — final rocket speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — thrust",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2753,6 +4037,16 @@
       "slides": [
         20,
         21
+      ],
+      "answerParts": [
+        {
+          "label": "A — average angular acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "B — effect of doubling angular acceleration",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2762,6 +4056,32 @@
       "slides": [
         22,
         23
+      ],
+      "answerParts": [
+        {
+          "label": "A — angular position",
+          "keyIndex": null
+        },
+        {
+          "label": "A — angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "A — angular acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angular position",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angular acceleration",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2786,7 +4106,29 @@
         "relativeTolerance": 0.02,
         "absoluteTolerance": 1e-06,
         "display": "part A angular displacement (rad): 11"
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — angular displacement (rad)",
+          "keyIndex": 0
+        },
+        {
+          "label": "B — revolutions",
+          "keyIndex": null
+        },
+        {
+          "label": "C — angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Linear-motion comparison — displacement",
+          "keyIndex": null
+        },
+        {
+          "label": "Linear-motion comparison — velocity",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 9,
@@ -2795,6 +4137,16 @@
       "slides": [
         35,
         36
+      ],
+      "answerParts": [
+        {
+          "label": "A — stopping time",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angle turned",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2839,6 +4191,24 @@
       "questionImages": [
         0,
         1
+      ],
+      "answerParts": [
+        {
+          "label": "A — inner-track angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "A — outer-track angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — total revolutions",
+          "keyIndex": null
+        },
+        {
+          "label": "C — angular acceleration",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2872,7 +4242,21 @@
         "relativeTolerance": 0.02,
         "absoluteTolerance": 1e-06,
         "display": "angular speed (rad/s): 0.18; inward acceleration (m/s²): 8.1"
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — angular speed (rad/s)",
+          "keyIndex": 0
+        },
+        {
+          "label": "B — radial acceleration (m/s²)",
+          "keyIndex": 1
+        },
+        {
+          "label": "B — acceleration direction",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 9,
@@ -2880,6 +4264,16 @@
       "type": "Worked example",
       "slides": [
         60
+      ],
+      "answerParts": [
+        {
+          "label": "A — tangential speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — tangential acceleration",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2909,6 +4303,20 @@
       "slides": [
         62,
         63
+      ],
+      "answerParts": [
+        {
+          "label": "A — final angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angular acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "C — elapsed time",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2918,6 +4326,24 @@
       "slides": [
         64,
         65
+      ],
+      "answerParts": [
+        {
+          "label": "A — angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — tangential speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — radial acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "D — total distance",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2927,6 +4353,16 @@
       "slides": [
         66,
         67
+      ],
+      "answerParts": [
+        {
+          "label": "A — axle diameter",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angular acceleration",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2955,6 +4391,24 @@
         81,
         82,
         83
+      ],
+      "answerParts": [
+        {
+          "label": "A — moment of inertia",
+          "keyIndex": null
+        },
+        {
+          "label": "A — rotational kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — moment of inertia",
+          "keyIndex": null
+        },
+        {
+          "label": "B — rotational kinetic energy",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2982,6 +4436,16 @@
       "slides": [
         88,
         89
+      ],
+      "answerParts": [
+        {
+          "label": "A — moment of inertia",
+          "keyIndex": null
+        },
+        {
+          "label": "B — turntable mass",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -2992,6 +4456,36 @@
         90,
         91,
         92
+      ],
+      "answerParts": [
+        {
+          "label": "A — moment of inertia",
+          "keyIndex": null
+        },
+        {
+          "label": "B — total rotational kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "C — first particle tangential speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — second particle tangential speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — third particle tangential speed",
+          "keyIndex": null
+        },
+        {
+          "label": "D — total kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "E — comparison",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3038,6 +4532,16 @@
       "slides": [
         111,
         112
+      ],
+      "answerParts": [
+        {
+          "label": "A — minimum-inertia axis proof",
+          "keyIndex": null
+        },
+        {
+          "label": "B — moment-of-inertia expression proof",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3048,6 +4552,20 @@
         18,
         19,
         20
+      ],
+      "answerParts": [
+        {
+          "label": "A — net torque expression",
+          "keyIndex": null
+        },
+        {
+          "label": "B — net torque value",
+          "keyIndex": null
+        },
+        {
+          "label": "B — rotation direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3084,6 +4602,16 @@
       "slides": [
         44,
         45
+      ],
+      "answerParts": [
+        {
+          "label": "Initial angular acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "Initial acceleration of right end",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3094,6 +4622,20 @@
         46,
         47,
         48
+      ],
+      "answerParts": [
+        {
+          "label": "Wheel angular acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "Object translational acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "Cord tension",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3115,7 +4657,25 @@
             53
           ]
         ]
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — lowest-position angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — center-of-mass tangential speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — rod-tip tangential speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Follow-up — angular speed at the stated angle",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 10,
@@ -3124,6 +4684,16 @@
       "slides": [
         53,
         54
+      ],
+      "answerParts": [
+        {
+          "label": "Blocks translational speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Pulley angular speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3134,6 +4704,24 @@
         55,
         56,
         57
+      ],
+      "answerParts": [
+        {
+          "label": "A — rotational energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — ball center-of-mass speed",
+          "keyIndex": null
+        },
+        {
+          "label": "D — comparison with free fall",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3153,6 +4741,24 @@
         60,
         61,
         62
+      ],
+      "answerParts": [
+        {
+          "label": "A — force diagrams or description",
+          "keyIndex": null
+        },
+        {
+          "label": "B — acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "C — tension on first side",
+          "keyIndex": null
+        },
+        {
+          "label": "C — tension on second side",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3180,6 +4786,16 @@
       "slides": [
         71,
         72
+      ],
+      "answerParts": [
+        {
+          "label": "Center-of-mass speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Center-of-mass acceleration magnitude",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3189,6 +4805,20 @@
       "slides": [
         73,
         74
+      ],
+      "answerParts": [
+        {
+          "label": "A — translational kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — rotational kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "C — total energy",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3198,6 +4828,16 @@
       "slides": [
         75,
         76
+      ],
+      "answerParts": [
+        {
+          "label": "A — angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — work done",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3207,6 +4847,28 @@
       "slides": [
         77,
         78
+      ],
+      "answerParts": [
+        {
+          "label": "A — angular acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — work done",
+          "keyIndex": null
+        },
+        {
+          "label": "D — average power",
+          "keyIndex": null
+        },
+        {
+          "label": "E — instantaneous power",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3217,6 +4879,16 @@
         80,
         81,
         82
+      ],
+      "answerParts": [
+        {
+          "label": "A — final center-of-mass speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — friction force",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3271,7 +4943,17 @@
             46
           ]
         ]
-      }
+      },
+      "answerParts": [
+        {
+          "label": "Angular momentum magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Angular momentum direction",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 10,
@@ -3280,6 +4962,16 @@
       "slides": [
         92,
         93
+      ],
+      "answerParts": [
+        {
+          "label": "A — angular momentum about center",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angular momentum about offset axis",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3330,6 +5022,24 @@
         110,
         111,
         112
+      ],
+      "answerParts": [
+        {
+          "label": "A — angular momentum expression",
+          "keyIndex": null
+        },
+        {
+          "label": "B — angular acceleration expression",
+          "keyIndex": null
+        },
+        {
+          "label": "Follow-up — acceleration after moving inward",
+          "keyIndex": null
+        },
+        {
+          "label": "Follow-up — position for balance",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3378,6 +5088,20 @@
         128,
         129,
         130
+      ],
+      "answerParts": [
+        {
+          "label": "Disk translational speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Stick translational speed",
+          "keyIndex": null
+        },
+        {
+          "label": "Stick angular speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3387,6 +5111,16 @@
       "slides": [
         131,
         132
+      ],
+      "answerParts": [
+        {
+          "label": "A — final angular speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — final-to-initial energy ratio",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3628,6 +5362,16 @@
       "slides": [
         17,
         18
+      ],
+      "answerParts": [
+        {
+          "label": "Force exerted by bolt",
+          "keyIndex": null
+        },
+        {
+          "label": "Force exerted by fulcrum",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3655,6 +5399,16 @@
       "slides": [
         28,
         29
+      ],
+      "answerParts": [
+        {
+          "label": "Fourth object x coordinate",
+          "keyIndex": null
+        },
+        {
+          "label": "Fourth object y coordinate",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3664,6 +5418,16 @@
       "slides": [
         30,
         31
+      ],
+      "answerParts": [
+        {
+          "label": "Force exerted by Sam",
+          "keyIndex": null
+        },
+        {
+          "label": "Force exerted by Joe",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3673,6 +5437,16 @@
       "slides": [
         32,
         33
+      ],
+      "answerParts": [
+        {
+          "label": "A — upward force U",
+          "keyIndex": null
+        },
+        {
+          "label": "B — downward force D",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3683,6 +5457,36 @@
         34,
         35,
         36
+      ],
+      "answerParts": [
+        {
+          "label": "A — cable tension",
+          "keyIndex": null
+        },
+        {
+          "label": "B — horizontal hinge force",
+          "keyIndex": null
+        },
+        {
+          "label": "C — vertical hinge force",
+          "keyIndex": null
+        },
+        {
+          "label": "D — vertical hinge force using other pivot",
+          "keyIndex": null
+        },
+        {
+          "label": "E — cable tension using other pivot",
+          "keyIndex": null
+        },
+        {
+          "label": "F — horizontal hinge force using other pivot",
+          "keyIndex": null
+        },
+        {
+          "label": "G — comparison",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3692,6 +5496,20 @@
       "slides": [
         37,
         38
+      ],
+      "answerParts": [
+        {
+          "label": "Tension in first rope",
+          "keyIndex": null
+        },
+        {
+          "label": "Tension in second rope",
+          "keyIndex": null
+        },
+        {
+          "label": "Tension in third rope",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3750,6 +5568,24 @@
         14,
         15,
         16
+      ],
+      "answerParts": [
+        {
+          "label": "Net force x component",
+          "keyIndex": null
+        },
+        {
+          "label": "Net force y component",
+          "keyIndex": null
+        },
+        {
+          "label": "Force magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Force direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3759,6 +5595,16 @@
       "slides": [
         17,
         18
+      ],
+      "answerParts": [
+        {
+          "label": "A — net force at midpoint",
+          "keyIndex": null
+        },
+        {
+          "label": "B — zero-force position",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3778,6 +5624,32 @@
         21,
         22,
         23
+      ],
+      "answerParts": [
+        {
+          "label": "A — force magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "A — force direction",
+          "keyIndex": null
+        },
+        {
+          "label": "B — force magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "B — force direction",
+          "keyIndex": null
+        },
+        {
+          "label": "C — force magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "C — force direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3833,6 +5705,28 @@
       "slides": [
         35,
         36
+      ],
+      "answerParts": [
+        {
+          "label": "A — gravitational field expression",
+          "keyIndex": null
+        },
+        {
+          "label": "B — physical explanation near zero",
+          "keyIndex": null
+        },
+        {
+          "label": "C — mathematical limit near zero",
+          "keyIndex": null
+        },
+        {
+          "label": "D — physical explanation at large distance",
+          "keyIndex": null
+        },
+        {
+          "label": "E — mathematical limit at large distance",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3842,6 +5736,16 @@
       "slides": [
         37,
         38
+      ],
+      "answerParts": [
+        {
+          "label": "Field magnitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Field direction",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -3889,6 +5793,16 @@
         69,
         70,
         71
+      ],
+      "answerParts": [
+        {
+          "label": "A — orbital speed expression",
+          "keyIndex": null
+        },
+        {
+          "label": "B — geosynchronous speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -4189,7 +6103,37 @@
         "relativeTolerance": 0.02,
         "absoluteTolerance": 1e-06,
         "display": "part A period (s): 1.25664"
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — period (s)",
+          "keyIndex": 0
+        },
+        {
+          "label": "B — maximum speed",
+          "keyIndex": null
+        },
+        {
+          "label": "C — maximum acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "D — position function",
+          "keyIndex": null
+        },
+        {
+          "label": "D — velocity function",
+          "keyIndex": null
+        },
+        {
+          "label": "D — acceleration function",
+          "keyIndex": null
+        },
+        {
+          "label": "E — changed quantities and new answers",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 13,
@@ -4232,6 +6176,40 @@
       "slides": [
         55,
         56
+      ],
+      "answerParts": [
+        {
+          "label": "A — period",
+          "keyIndex": null
+        },
+        {
+          "label": "B — spring constant",
+          "keyIndex": null
+        },
+        {
+          "label": "C — maximum speed",
+          "keyIndex": null
+        },
+        {
+          "label": "D — maximum force",
+          "keyIndex": null
+        },
+        {
+          "label": "E — position",
+          "keyIndex": null
+        },
+        {
+          "label": "E — speed",
+          "keyIndex": null
+        },
+        {
+          "label": "E — acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "F — force",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -4245,6 +6223,32 @@
         74,
         75,
         76
+      ],
+      "answerParts": [
+        {
+          "label": "A — maximum speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — velocity",
+          "keyIndex": null
+        },
+        {
+          "label": "C — kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "C — potential energy",
+          "keyIndex": null
+        },
+        {
+          "label": "Follow-up — new amplitude",
+          "keyIndex": null
+        },
+        {
+          "label": "Follow-up — new maximum speed",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -4265,6 +6269,20 @@
         84,
         85,
         86
+      ],
+      "answerParts": [
+        {
+          "label": "A — position function",
+          "keyIndex": null
+        },
+        {
+          "label": "B — velocity function",
+          "keyIndex": null
+        },
+        {
+          "label": "B — acceleration function",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -4274,6 +6292,28 @@
       "slides": [
         87,
         88
+      ],
+      "answerParts": [
+        {
+          "label": "A — maximum speed",
+          "keyIndex": null
+        },
+        {
+          "label": "B — speed at stated position",
+          "keyIndex": null
+        },
+        {
+          "label": "C — maximum acceleration",
+          "keyIndex": null
+        },
+        {
+          "label": "D — acceleration at stated position",
+          "keyIndex": null
+        },
+        {
+          "label": "E — mechanical energy",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -4283,6 +6323,56 @@
       "slides": [
         89,
         90
+      ],
+      "answerParts": [
+        {
+          "label": "A — elastic potential energy",
+          "keyIndex": null
+        },
+        {
+          "label": "A — kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "A — gravitational potential energy",
+          "keyIndex": null
+        },
+        {
+          "label": "A — total energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — elastic potential energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — gravitational potential energy",
+          "keyIndex": null
+        },
+        {
+          "label": "B — total energy",
+          "keyIndex": null
+        },
+        {
+          "label": "C — elastic potential energy",
+          "keyIndex": null
+        },
+        {
+          "label": "C — kinetic energy",
+          "keyIndex": null
+        },
+        {
+          "label": "C — gravitational potential energy",
+          "keyIndex": null
+        },
+        {
+          "label": "C — total energy",
+          "keyIndex": null
+        }
       ]
     },
     {
@@ -4387,7 +6477,17 @@
             33
           ]
         ]
-      }
+      },
+      "answerParts": [
+        {
+          "label": "A — period with end pivot",
+          "keyIndex": null
+        },
+        {
+          "label": "B — period with moved pivot",
+          "keyIndex": null
+        }
+      ]
     },
     {
       "deck": 13,

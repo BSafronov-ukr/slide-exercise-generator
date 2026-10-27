@@ -79,13 +79,14 @@ Search uses text stored in the PowerPoint XML. Words contained only in scanned p
 
 ## Two attempts and hidden answers
 
-The Question tab provides an answer bar with two valid submissions per round. Blank, malformed numerical, and identical repeated entries do not use a try. Answers unlock after two attempts or a correct checked answer. Opening the Answers tab is an explicit choice; it does not open automatically. Attempts persist when changing filters, shuffling, or reloading. Start a new round from Answers to retry.
+The Question tab provides a separate labeled answer box for each requested output in a multi-part exercise. Checked numeric keys automatically create one box per value; explicit `answerParts` metadata also covers conceptual parts, symbolic answers, and image-only questions. Feedback appears beside each box, so correct entries can stay while other entries are revised. The two valid submissions apply to the whole exercise. Blank fields, malformed numerical entries, and identical repeated submissions do not use a try. All boxes must be valid before grading feedback is shown. Answers unlock after two attempts, or when every requested part has a checked correct answer. Parts without a checked key are saved for source comparison. Opening the Answers tab remains an explicit choice. Attempts and separate drafts persist when changing filters, shuffling, or reloading. Existing saved comma-separated numeric drafts are migrated into their corresponding boxes. Start a new round from Answers to retry.
 
 83 exercise groups have checked numerical or multiple-choice keys. Numerical checks use 2% rounding tolerance and the units and parts shown beside the input. The other groups record free-text attempts for source comparison; they are never falsely marked wrong. Some source slides provide no separate worked answer; the interface identifies that limit.
 
 Optional fields in `exercises.json`:
 
 - `answerKey`: a checked key (`kind: "numeric"`, `values`, `labels`, tolerances; or `kind: "text"`, `accepted` aliases), plus `display` text for reveal.
+- `answerParts`: an ordered list of `{ "label": "Part A — speed (m/s)", "keyIndex": 0 }` objects. `keyIndex` maps a field to its original numeric key index; use `null` for parts requiring source comparison. This supports exercises where only some outputs have verified keys. Include every requested output, splitting quantities within a lettered part when appropriate. Omit this property to derive fields from the numeric key or use a single response box.
 - `hiddenRegions`: rectangles in percentages, keyed by the zero-based image index. Each rectangle is `[left, top, width, height]` and conceals a source solution area only in Question view.
 - `questionImages`: zero-based indices of prompt slides to show (default `[0]`).
 - `removeAnswerLines`: build a question-only text prompt by removing lines labeled Ans. or Answer: when answers are interleaved with the text.
