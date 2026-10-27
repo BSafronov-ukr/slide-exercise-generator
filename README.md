@@ -6,9 +6,9 @@ Features include chapter and exercise-type filters, text search, a shuffle witho
 
 ## What is included
 
-- `index.html`: the complete interface, with no framework or build step.
+- `index.html`, `styles.css`, and `app.js`: the responsive interface, with no framework or build step.
 - `bank.js`: an empty starter bank, replaced when you run the builder.
-- `exercises.json`: a slide-selection index for 344 entries in the 13 PHYS 270 presentations. It contains filenames, titles, and slide numbers, **not the slide images or question text**.
+- `exercises.json`: a slide-selection index for 336 exercise groups in the 13 PHYS 270 presentations. It contains filenames, titles, and slide numbers, **not the slide images or question text**.
 - `build.py`: renders your local PowerPoint files and creates the browser bank.
 
 Course presentations, rendered slide images, and the personal study guide are not included in this public repository. The starter page has no exercises until you build a bank.
@@ -41,11 +41,11 @@ The builder produces `bank.js` and `slides/*.jpg`. It renders the original pages
 python -m http.server 8000
 ```
 
-Then visit `http://localhost:8000`. No server-side application, API keys, or database is needed. A private offline copy works by keeping `index.html`, `bank.js`, and `slides/` together.
+Then visit `http://localhost:8000`. No server-side application, API keys, or database is needed. A private offline copy works by keeping the HTML, CSS, JavaScript files, and `slides/` together.
 
 ## Host it yourself
 
-Upload `index.html`, the generated `bank.js`, and the complete `slides` folder to any static web host. The presentations and Python dependencies are not required on the host.
+Upload `index.html`, `styles.css`, `app.js`, `practice-core.js`, the generated `bank.js`, and the complete `slides` folder to any static web host. The presentations and Python dependencies are not required on the host.
 
 ### GitHub Pages
 
@@ -73,9 +73,26 @@ Edit `exercises.json` to select the original slides you want to practice. Slide 
 }
 ```
 
-Use `Problem`, `Worked example`, or `Concept check` as the type. The first listed slide appears immediately; remaining slides appear when requested. A slide containing both a prompt and its answer is shown unchanged. The builder validates missing files, slide ranges, and duplicate starting slides before writing the bank.
+Use `Problem`, `Worked example`, or `Concept check` as the type. The first listed slide appears immediately; remaining slides appear when requested. The Question tab can conceal answer areas with configured percentage rectangles; the Answers tab always shows the original slide unchanged. The builder validates missing files, slide ranges, and duplicate starting slides before writing the bank.
 
 Search uses text stored in the PowerPoint XML. Words contained only in scanned pictures are visible in the images but are not searchable. Browser notes are local to the browser and are not uploaded or shared.
+
+## Two attempts and hidden answers
+
+The Question tab provides an answer bar with two valid submissions per round. Blank, malformed numerical, and identical repeated entries do not use a try. Answers unlock after two attempts or a correct checked answer. Opening the Answers tab is an explicit choice; it does not open automatically. Attempts persist when changing filters, shuffling, or reloading. Start a new round from Answers to retry.
+
+83 exercise groups have checked numerical or multiple-choice keys. Numerical checks use 2% rounding tolerance and the units and parts shown beside the input. The other groups record free-text attempts for source comparison; they are never falsely marked wrong. Some source slides provide no separate worked answer; the interface identifies that limit.
+
+Optional fields in `exercises.json`:
+
+- `answerKey`: a checked key (`kind: "numeric"`, `values`, `labels`, tolerances; or `kind: "text"`, `accepted` aliases), plus `display` text for reveal.
+- `hiddenRegions`: rectangles in percentages, keyed by the zero-based image index. Each rectangle is `[left, top, width, height]` and conceals a source solution area only in Question view.
+- `questionImages`: zero-based indices of prompt slides to show (default `[0]`).
+- `removeAnswerLines`: build a question-only text prompt by removing lines labeled Ans. or Answer: when answers are interleaved with the text.
+
+Always check source slides before choosing masks or enabling an automatic key. Multi-part keys should label exactly which quantities are checked. The sample index merges solution-only build slides with their questions.
+
+This is a study aid, not an exam-security system: static keys and source images can be inspected in the downloaded files. No answers or notes are sent to a server. Fonts load from Google Fonts when online; system fallbacks work offline.
 
 ## License
 

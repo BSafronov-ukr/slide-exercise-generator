@@ -60,7 +60,31 @@
       "type": "Worked example",
       "slides": [
         12
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            34,
+            51,
+            61
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          4.3,
+          215.54
+        ],
+        "labels": [
+          "radius (m)",
+          "angle counterclockwise from +x (degrees)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "radius (m): 4.3; angle counterclockwise from +x (degrees): 215.54"
+      }
     },
     {
       "deck": 1,
@@ -78,7 +102,21 @@
         57,
         58,
         59
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          48.218,
+          38.95
+        ],
+        "labels": [
+          "displacement (km)",
+          "angle west of north (degrees)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "displacement (km): 48.218; angle west of north (degrees): 38.95"
+      }
     },
     {
       "deck": 1,
@@ -151,7 +189,29 @@
       "slides": [
         81,
         82
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            47,
+            100,
+            53
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          4
+        ],
+        "labels": [
+          "A dot B"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "A dot B: 4"
+      }
     },
     {
       "deck": 1,
@@ -159,7 +219,17 @@
       "type": "Problem",
       "slides": [
         83
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            57,
+            100,
+            43
+          ]
+        ]
+      }
     },
     {
       "deck": 1,
@@ -176,7 +246,33 @@
       "type": "Worked example",
       "slides": [
         95
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            40,
+            100,
+            60
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          -43,
+          13,
+          1
+        ],
+        "labels": [
+          "i component",
+          "j component",
+          "k component"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "i component: -43; j component: 13; k component: 1"
+      }
     },
     {
       "deck": 1,
@@ -193,7 +289,33 @@
       "type": "Problem",
       "slides": [
         15
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            54,
+            100,
+            46
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          4,
+          -4,
+          10
+        ],
+        "labels": [
+          "displacement a (m)",
+          "displacement b (m)",
+          "displacement c (m)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "displacement a (m): 4; displacement b (m): -4; displacement c (m): 10"
+      }
     },
     {
       "deck": 2,
@@ -201,7 +323,33 @@
       "type": "Problem",
       "slides": [
         16
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            55,
+            71,
+            45,
+            29
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          8,
+          -8,
+          20
+        ],
+        "labels": [
+          "velocity a (m/s)",
+          "velocity b (m/s)",
+          "velocity c (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "velocity a (m/s): 8; velocity b (m/s): -8; velocity c (m/s): 20"
+      }
     },
     {
       "deck": 2,
@@ -210,7 +358,14 @@
       "slides": [
         17,
         18
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "c"
+        ],
+        "display": "C: motion in +x followed by reversal."
+      }
     },
     {
       "deck": 2,
@@ -219,7 +374,16 @@
       "slides": [
         20,
         21
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "instantaneous speed",
+          "your instantaneous speed"
+        ],
+        "display": "B: instantaneous speed."
+      }
     },
     {
       "deck": 2,
@@ -248,7 +412,30 @@
       "type": "Concept check",
       "slides": [
         36
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            43,
+            39,
+            22,
+            10
+          ],
+          [
+            0,
+            49,
+            43,
+            51
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "false"
+        ],
+        "display": "False."
+      }
     },
     {
       "deck": 2,
@@ -257,7 +444,16 @@
       "slides": [
         38,
         39
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "west",
+          "westward"
+        ],
+        "display": "B: westward."
+      }
     },
     {
       "deck": 2,
@@ -296,7 +492,19 @@
         55,
         56,
         57
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          -31.5
+        ],
+        "labels": [
+          "part A acceleration (m/s²)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "part A acceleration (m/s²): -31.5"
+      }
     },
     {
       "deck": 2,
@@ -315,7 +523,24 @@
       "type": "Problem",
       "slides": [
         62
-      ]
+      ],
+      "removeAnswerLines": true,
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          1.5,
+          1.5,
+          76
+        ],
+        "labels": [
+          "jogger acceleration (m/s²)",
+          "car acceleration (m/s²)",
+          "extra car distance (m)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "jogger acceleration (m/s²): 1.5; car acceleration (m/s²): 1.5; extra car distance (m): 76"
+      }
     },
     {
       "deck": 2,
@@ -351,7 +576,16 @@
       "slides": [
         81,
         82
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "e",
+          "remains the same",
+          "constant"
+        ],
+        "display": "E: acceleration remains the same."
+      }
     },
     {
       "deck": 2,
@@ -360,7 +594,15 @@
       "slides": [
         83,
         84
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "d",
+          "decreases and then increases"
+        ],
+        "display": "D: speed decreases on the way up, then increases on the way down."
+      }
     },
     {
       "deck": 2,
@@ -381,7 +623,29 @@
       "type": "Problem",
       "slides": [
         91
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            55,
+            100,
+            45
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          39.2
+        ],
+        "labels": [
+          "initial upward velocity (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "initial upward velocity (m/s): 39.2"
+      }
     },
     {
       "deck": 2,
@@ -390,7 +654,21 @@
       "slides": [
         92,
         93
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          29.4,
+          44.1
+        ],
+        "labels": [
+          "initial speed (m/s)",
+          "maximum height (m)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "initial speed (m/s): 29.4; maximum height (m): 44.1"
+      }
     },
     {
       "deck": 2,
@@ -399,7 +677,21 @@
       "slides": [
         94,
         95
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          510.204,
+          20.408
+        ],
+        "labels": [
+          "maximum height (m)",
+          "total flight time (s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "maximum height (m): 510.204; total flight time (s): 20.408"
+      }
     },
     {
       "deck": 2,
@@ -444,7 +736,29 @@
       "slides": [
         37,
         38
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            55,
+            50,
+            45
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          7.94
+        ],
+        "labels": [
+          "part A range (m)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "part A range (m): 7.94"
+      }
     },
     {
       "deck": 3,
@@ -453,7 +767,16 @@
       "slides": [
         39,
         40
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "highest point",
+          "the highest point"
+        ],
+        "display": "B: at the highest point."
+      }
     },
     {
       "deck": 3,
@@ -462,7 +785,15 @@
       "slides": [
         41,
         42
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "nowhere"
+        ],
+        "display": "A: nowhere for this nonvertical projectile."
+      }
     },
     {
       "deck": 3,
@@ -473,7 +804,30 @@
         48,
         49,
         50
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          1,
+          1.25,
+          8.66
+        ],
+        "labels": [
+          "time (s)",
+          "height (m)",
+          "range (m)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "Using the lecture’s g = 10 m/s²: 1.00 s; 1.25 m; 8.66 m.",
+        "alternatives": [
+          [
+            1.0204,
+            1.2755,
+            8.837
+          ]
+        ]
+      }
     },
     {
       "deck": 3,
@@ -493,7 +847,19 @@
         54,
         55,
         56
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          4.22
+        ],
+        "labels": [
+          "part A flight time (s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "part A flight time (s): 4.22"
+      }
     },
     {
       "deck": 3,
@@ -555,7 +921,15 @@
       "slides": [
         84,
         85
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "d",
+          "4"
+        ],
+        "display": "D: four times the centripetal acceleration."
+      }
     },
     {
       "deck": 3,
@@ -564,7 +938,16 @@
       "slides": [
         86,
         87
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "0.5",
+          "half"
+        ],
+        "display": "B: the period is halved."
+      }
     },
     {
       "deck": 3,
@@ -592,7 +975,16 @@
       "slides": [
         100,
         101
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "straight",
+          "when the path is straight"
+        ],
+        "display": "B: the path is straight."
+      }
     },
     {
       "deck": 3,
@@ -601,7 +993,15 @@
       "slides": [
         102,
         103
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "d",
+          "never"
+        ],
+        "display": "D: never, because speed is increasing."
+      }
     },
     {
       "deck": 3,
@@ -609,7 +1009,29 @@
       "type": "Worked example",
       "slides": [
         104
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            40,
+            100,
+            60
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          0.00593
+        ],
+        "labels": [
+          "radial acceleration (m/s²)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 0.0001,
+        "display": "radial acceleration (m/s²): 0.00593"
+      }
     },
     {
       "deck": 3,
@@ -666,7 +1088,16 @@
       "slides": [
         52,
         53
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "your friend",
+          "friend"
+        ],
+        "display": "B: your friend. One newton of gold on the Moon has more mass than one newton of gold on Earth."
+      }
     },
     {
       "deck": 4,
@@ -675,7 +1106,15 @@
       "slides": [
         58,
         59
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "c",
+          "same"
+        ],
+        "display": "C: equal force magnitudes."
+      }
     },
     {
       "deck": 4,
@@ -684,7 +1123,16 @@
       "slides": [
         60,
         61
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "fly",
+          "the fly"
+        ],
+        "display": "A: the fly has the greater acceleration."
+      }
     },
     {
       "deck": 4,
@@ -732,6 +1180,7 @@
       "title": "Example 6 The Atwood Machine",
       "type": "Worked example",
       "slides": [
+        96,
         97,
         98,
         99
@@ -801,7 +1250,19 @@
       "slides": [
         129,
         130
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          0.17746
+        ],
+        "labels": [
+          "coefficient of kinetic friction"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "coefficient of kinetic friction: 0.17746"
+      }
     },
     {
       "deck": 4,
@@ -847,7 +1308,17 @@
         142,
         143,
         144
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            58,
+            83,
+            40,
+            17
+          ]
+        ]
+      }
     },
     {
       "deck": 4,
@@ -1014,7 +1485,19 @@
         14,
         15,
         16
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          12.247
+        ],
+        "labels": [
+          "maximum puck speed (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "maximum puck speed (m/s): 12.247"
+      }
     },
     {
       "deck": 5,
@@ -1024,7 +1507,19 @@
         18,
         19,
         20
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          13.39
+        ],
+        "labels": [
+          "maximum car speed (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "maximum car speed (m/s): 13.39"
+      }
     },
     {
       "deck": 5,
@@ -1033,7 +1528,19 @@
       "slides": [
         22,
         23
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          27.63
+        ],
+        "labels": [
+          "bank angle (degrees)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "bank angle (degrees): 27.63"
+      }
     },
     {
       "deck": 5,
@@ -1069,14 +1576,7 @@
       "title": "Quick Quiz 1 Part I",
       "type": "Concept check",
       "slides": [
-        33
-      ]
-    },
-    {
-      "deck": 5,
-      "title": "Quick Quiz 1 Part I",
-      "type": "Concept check",
-      "slides": [
+        33,
         34
       ]
     },
@@ -1085,14 +1585,7 @@
       "title": "Quick Quiz 2 Part II",
       "type": "Concept check",
       "slides": [
-        35
-      ]
-    },
-    {
-      "deck": 5,
-      "title": "Quick Quiz 2 Part II",
-      "type": "Concept check",
-      "slides": [
+        35,
         36
       ]
     },
@@ -1171,7 +1664,16 @@
       "slides": [
         22,
         23
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "zero",
+          "0"
+        ],
+        "display": "A: zero, since the force is perpendicular to the displacement."
+      }
     },
     {
       "deck": 6,
@@ -1179,7 +1681,29 @@
       "type": "Worked example",
       "slides": [
         24
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            54,
+            58,
+            46
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          129.904
+        ],
+        "labels": [
+          "work (J)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "work (J): 129.904"
+      }
     },
     {
       "deck": 6,
@@ -1215,7 +1739,29 @@
       "slides": [
         44,
         45
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            47,
+            100,
+            53
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          4
+        ],
+        "labels": [
+          "A dot B"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "A dot B: 4"
+      }
     },
     {
       "deck": 6,
@@ -1223,7 +1769,29 @@
       "type": "Worked example",
       "slides": [
         46
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            61,
+            100,
+            39
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          16
+        ],
+        "labels": [
+          "work (J)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "work (J): 16"
+      }
     },
     {
       "deck": 6,
@@ -1231,7 +1799,17 @@
       "type": "Problem",
       "slides": [
         47
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            58,
+            100,
+            42
+          ]
+        ]
+      }
     },
     {
       "deck": 6,
@@ -1267,7 +1845,17 @@
       "slides": [
         61,
         62
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            40,
+            59,
+            60
+          ]
+        ]
+      }
     },
     {
       "deck": 6,
@@ -1276,7 +1864,15 @@
       "slides": [
         71,
         72
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "four times"
+        ],
+        "display": "A: four times as much work."
+      }
     },
     {
       "deck": 6,
@@ -1304,7 +1900,14 @@
       "slides": [
         83,
         84
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "c"
+        ],
+        "display": "C: gravitational potential energy can be positive or negative depending on the chosen zero."
+      }
     },
     {
       "deck": 6,
@@ -1340,7 +1943,14 @@
       "slides": [
         97,
         98
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "c"
+        ],
+        "display": "C: kinetic, elastic potential, and gravitational potential energy for the ball–spring–Earth system."
+      }
     },
     {
       "deck": 6,
@@ -1395,7 +2005,19 @@
       "type": "Problem",
       "slides": [
         132
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          388.733
+        ],
+        "labels": [
+          "power (W)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "power (W): 388.733"
+      }
     },
     {
       "deck": 6,
@@ -1415,7 +2037,19 @@
       "slides": [
         137,
         138
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          1230
+        ],
+        "labels": [
+          "power (W)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "power (W): 1230"
+      }
     },
     {
       "deck": 6,
@@ -1433,7 +2067,19 @@
       "slides": [
         22,
         23
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          2.025
+        ],
+        "labels": [
+          "maximum height (m)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "maximum height (m): 2.025"
+      }
     },
     {
       "deck": 7,
@@ -1469,7 +2115,17 @@
       "type": "Problem",
       "slides": [
         31
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            40,
+            59,
+            60,
+            41
+          ]
+        ]
+      }
     },
     {
       "deck": 7,
@@ -1516,7 +2172,19 @@
         41,
         42,
         43
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          3.737
+        ],
+        "labels": [
+          "speed after falling 1.50 m (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "speed after falling 1.50 m (m/s): 3.737"
+      }
     },
     {
       "deck": 7,
@@ -1525,7 +2193,19 @@
       "slides": [
         44,
         45
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          0.6794
+        ],
+        "labels": [
+          "coefficient of kinetic friction"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "coefficient of kinetic friction: 0.6794"
+      }
     },
     {
       "deck": 7,
@@ -1579,14 +2259,7 @@
       "title": "Quick Quiz 1",
       "type": "Concept check",
       "slides": [
-        12
-      ]
-    },
-    {
-      "deck": 8,
-      "title": "Quick Quiz 1",
-      "type": "Concept check",
-      "slides": [
+        12,
         13
       ]
     },
@@ -1603,6 +2276,7 @@
       "title": "Example 1:  How Good Are the Bumpers?",
       "type": "Worked example",
       "slides": [
+        25,
         26,
         27
       ]
@@ -1615,7 +2289,22 @@
         28,
         29,
         30
-      ]
+      ],
+      "removeAnswerLines": true,
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          2210,
+          4420
+        ],
+        "labels": [
+          "part a average force magnitude (N)",
+          "part b average force magnitude (N)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "part a average force magnitude (N): 2210; part b average force magnitude (N): 4420"
+      }
     },
     {
       "deck": 8,
@@ -1658,7 +2347,19 @@
       "slides": [
         41,
         42
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          -0.0425
+        ],
+        "labels": [
+          "archer velocity, arrow direction positive (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "archer velocity, arrow direction positive (m/s): -0.0425"
+      }
     },
     {
       "deck": 8,
@@ -1675,7 +2376,29 @@
       "type": "Worked example",
       "slides": [
         45
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            63,
+            100,
+            37
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          1.1
+        ],
+        "labels": [
+          "final speed (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "final speed (m/s): 1.1"
+      }
     },
     {
       "deck": 8,
@@ -1683,7 +2406,17 @@
       "type": "Problem",
       "slides": [
         46
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            49,
+            100,
+            13
+          ]
+        ]
+      }
     },
     {
       "deck": 8,
@@ -1691,7 +2424,19 @@
       "type": "Worked example",
       "slides": [
         58
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          6.66667
+        ],
+        "labels": [
+          "common speed (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "common speed (m/s): 6.66667"
+      }
     },
     {
       "deck": 8,
@@ -1699,7 +2444,29 @@
       "type": "Problem",
       "slides": [
         59
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            55,
+            100,
+            45
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          300.6
+        ],
+        "labels": [
+          "initial bullet speed (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "initial bullet speed (m/s): 300.6"
+      }
     },
     {
       "deck": 8,
@@ -1707,7 +2474,17 @@
       "type": "Problem",
       "slides": [
         60
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            36,
+            100,
+            64
+          ]
+        ]
+      }
     },
     {
       "deck": 8,
@@ -1753,7 +2530,8 @@
       "type": "Problem",
       "slides": [
         84
-      ]
+      ],
+      "removeAnswerLines": true
     },
     {
       "deck": 8,
@@ -1796,7 +2574,21 @@
       "slides": [
         102,
         103
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          15.625,
+          53.13
+        ],
+        "labels": [
+          "common speed (m/s)",
+          "angle north of east (degrees)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "common speed (m/s): 15.625; angle north of east (degrees): 53.13"
+      }
     },
     {
       "deck": 8,
@@ -1853,7 +2645,17 @@
       "type": "Worked example",
       "slides": [
         139
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            58,
+            53,
+            42,
+            47
+          ]
+        ]
+      }
     },
     {
       "deck": 8,
@@ -1901,7 +2703,29 @@
       "type": "Worked example",
       "slides": [
         157
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            48,
+            100,
+            52
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          10
+        ],
+        "labels": [
+          "water speed (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "water speed (m/s): 10"
+      }
     },
     {
       "deck": 8,
@@ -1950,7 +2774,19 @@
         32,
         33,
         34
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          11
+        ],
+        "labels": [
+          "part A angular displacement (rad)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "part A angular displacement (rad): 11"
+      }
     },
     {
       "deck": 9,
@@ -1979,7 +2815,15 @@
         50,
         51,
         52
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "same"
+        ],
+        "display": "B: both riders have the same angular speed."
+      }
     },
     {
       "deck": 9,
@@ -1987,17 +2831,14 @@
       "type": "Worked example",
       "slides": [
         53,
-        54
-      ]
-    },
-    {
-      "deck": 9,
-      "title": "Example 2: CD Player",
-      "type": "Worked example",
-      "slides": [
+        54,
         55,
         56,
         57
+      ],
+      "questionImages": [
+        0,
+        1
       ]
     },
     {
@@ -2007,7 +2848,31 @@
       "slides": [
         58,
         59
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            37,
+            100,
+            63
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          0.18,
+          8.1
+        ],
+        "labels": [
+          "angular speed (rad/s)",
+          "inward acceleration (m/s²)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "angular speed (rad/s): 0.18; inward acceleration (m/s²): 8.1"
+      }
     },
     {
       "deck": 9,
@@ -2023,7 +2888,19 @@
       "type": "Worked example",
       "slides": [
         61
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          187.72
+        ],
+        "labels": [
+          "total acceleration magnitude (m/s²)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "total acceleration magnitude (m/s²): 187.72"
+      }
     },
     {
       "deck": 9,
@@ -2059,7 +2936,15 @@
       "slides": [
         78,
         79
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "hollow pipe"
+        ],
+        "display": "A: the hollow pipe has greater inertia and rotational kinetic energy."
+      }
     },
     {
       "deck": 9,
@@ -2220,7 +3105,17 @@
         50,
         51,
         52
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            47,
+            62,
+            53
+          ]
+        ]
+      }
     },
     {
       "deck": 10,
@@ -2267,7 +3162,16 @@
       "slides": [
         69,
         70
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "ball",
+          "the ball"
+        ],
+        "display": "A: the ball arrives first."
+      }
     },
     {
       "deck": 10,
@@ -2322,7 +3226,16 @@
       "slides": [
         87,
         88
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "zero",
+          "0"
+        ],
+        "display": "A: zero angular momentum about the pole."
+      }
     },
     {
       "deck": 10,
@@ -2331,7 +3244,16 @@
       "slides": [
         89,
         90
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "mv d",
+          "mvd"
+        ],
+        "display": "B: magnitude mvd."
+      }
     },
     {
       "deck": 10,
@@ -2339,7 +3261,17 @@
       "type": "Worked example",
       "slides": [
         91
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            54,
+            100,
+            46
+          ]
+        ]
+      }
     },
     {
       "deck": 10,
@@ -2375,7 +3307,16 @@
       "slides": [
         104,
         105
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "hollow sphere",
+          "the hollow sphere"
+        ],
+        "display": "B: the hollow sphere. At equal angular speed, its larger moment of inertia gives larger angular momentum."
+      }
     },
     {
       "deck": 10,
@@ -2398,7 +3339,15 @@
       "slides": [
         119,
         120
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "increases"
+        ],
+        "display": "A: rotational kinetic energy increases."
+      }
     },
     {
       "deck": 10,
@@ -2447,23 +3396,54 @@
       "slides": [
         133,
         134
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            56,
+            100,
+            44
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          7.14286
+        ],
+        "labels": [
+          "new angular speed (rev/min)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "new angular speed (rev/min): 7.14286"
+      }
     },
     {
       "deck": 10,
       "title": "Problem 12",
       "type": "Problem",
       "slides": [
-        135
-      ]
-    },
-    {
-      "deck": 10,
-      "title": "Problem 34",
-      "type": "Problem",
-      "slides": [
+        135,
         136
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          1.90678,
+          2.53125,
+          6.43591
+        ],
+        "labels": [
+          "new angular speed (rad/s)",
+          "initial kinetic energy (J)",
+          "final kinetic energy (J)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "new angular speed (rad/s): 1.90678; initial kinetic energy (J): 2.53125; final kinetic energy (J): 6.43591"
+      }
     },
     {
       "deck": 10,
@@ -2721,7 +3701,16 @@
       "slides": [
         11,
         12
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "e",
+          "one fourth",
+          "0.25"
+        ],
+        "display": "E: one-fourth the gravitational force."
+      }
     },
     {
       "deck": 12,
@@ -2729,7 +3718,29 @@
       "type": "Worked example",
       "slides": [
         13
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            70,
+            100,
+            30
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          1.39042e-08
+        ],
+        "labels": [
+          "force magnitude (N)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-10,
+        "display": "force magnitude (N): 1.39042e-08"
+      }
     },
     {
       "deck": 12,
@@ -2746,14 +3757,7 @@
       "title": "Problem 1",
       "type": "Problem",
       "slides": [
-        17
-      ]
-    },
-    {
-      "deck": 12,
-      "title": "Section  13.1",
-      "type": "Problem",
-      "slides": [
+        17,
         18
       ]
     },
@@ -2783,7 +3787,16 @@
       "slides": [
         28,
         29
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "d",
+          "9.8",
+          "9.80"
+        ],
+        "display": "D: acceleration is approximately 9.80 m/s² near Earth’s surface."
+      }
     },
     {
       "deck": 12,
@@ -2792,7 +3805,17 @@
       "slides": [
         30,
         31
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            38,
+            100,
+            62
+          ]
+        ]
+      }
     },
     {
       "deck": 12,
@@ -2828,7 +3851,15 @@
       "slides": [
         64,
         65
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "no danger"
+        ],
+        "display": "A: no possible collision in the idealized orbit; its aphelion is inside Earth’s orbital radius."
+      }
     },
     {
       "deck": 12,
@@ -2837,7 +3868,17 @@
       "slides": [
         66,
         67
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            47,
+            100,
+            53
+          ]
+        ]
+      }
     },
     {
       "deck": 12,
@@ -2852,21 +3893,19 @@
     },
     {
       "deck": 12,
-      "title": "Example 7: The Change in Potential Energy",
-      "type": "Worked example",
-      "slides": [
-        79,
-        80
-      ]
-    },
-    {
-      "deck": 12,
       "title": "Quick Quiz 4 Part I",
       "type": "Concept check",
       "slides": [
         84,
         85
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "perihelion"
+        ],
+        "display": "Perihelion."
+      }
     },
     {
       "deck": 12,
@@ -2875,23 +3914,30 @@
       "slides": [
         86,
         87
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "aphelion"
+        ],
+        "display": "Aphelion."
+      }
     },
     {
       "deck": 12,
       "title": "Quick Quiz 4 Part III",
       "type": "Concept check",
       "slides": [
-        88
-      ]
-    },
-    {
-      "deck": 12,
-      "title": "Quick Quiz 4 Part III",
-      "type": "Concept check",
-      "slides": [
+        88,
         89
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "perihelion"
+        ],
+        "display": "Perihelion."
+      }
     },
     {
       "deck": 12,
@@ -2900,7 +3946,16 @@
       "slides": [
         90,
         91
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "all points",
+          "same",
+          "constant"
+        ],
+        "display": "The total energy is the same at all points."
+      }
     },
     {
       "deck": 12,
@@ -2917,7 +3972,29 @@
       "type": "Worked example",
       "slides": [
         96
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            50,
+            100,
+            50
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          11200
+        ],
+        "labels": [
+          "escape speed (m/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "escape speed (m/s): 11200"
+      }
     },
     {
       "deck": 12,
@@ -2998,7 +4075,15 @@
       "slides": [
         9,
         10
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "d",
+          "4a"
+        ],
+        "display": "D: total distance 4A."
+      }
     },
     {
       "deck": 13,
@@ -3006,7 +4091,33 @@
       "type": "Problem",
       "slides": [
         15
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            61,
+            100,
+            39
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          0.12,
+          1.6,
+          0.625
+        ],
+        "labels": [
+          "amplitude (m)",
+          "period (s)",
+          "frequency (Hz)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "amplitude (m): 0.12; period (s): 1.6; frequency (Hz): 0.625"
+      }
     },
     {
       "deck": 13,
@@ -3033,7 +4144,16 @@
       "slides": [
         45,
         46
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "b",
+          "sqrt2t",
+          "sqrt(2)t"
+        ],
+        "display": "B: √2 times the original period."
+      }
     },
     {
       "deck": 13,
@@ -3047,7 +4167,29 @@
         51,
         52,
         53
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            56,
+            100,
+            44
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          1.25664
+        ],
+        "labels": [
+          "part A period (s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "part A period (s): 1.25664"
+      }
     },
     {
       "deck": 13,
@@ -3055,7 +4197,33 @@
       "type": "Problem",
       "slides": [
         54
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            60,
+            100,
+            40
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          0.16666666666666666,
+          37.6991,
+          0.0844343
+        ],
+        "labels": [
+          "period (s)",
+          "angular frequency (rad/s)",
+          "mass (kg)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "period (s): 0.166667; angular frequency (rad/s): 37.6991; mass (kg): 0.0844343"
+      }
     },
     {
       "deck": 13,
@@ -3124,7 +4292,15 @@
       "slides": [
         99,
         100
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "slow"
+        ],
+        "display": "A: the clock runs slow."
+      }
     },
     {
       "deck": 13,
@@ -3134,7 +4310,15 @@
         101,
         102,
         103
-      ]
+      ],
+      "answerKey": {
+        "kind": "text",
+        "accepted": [
+          "a",
+          "slow"
+        ],
+        "display": "A: the clock runs slow."
+      }
     },
     {
       "deck": 13,
@@ -3143,7 +4327,17 @@
       "slides": [
         104,
         105
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            76,
+            100,
+            24
+          ]
+        ]
+      }
     },
     {
       "deck": 13,
@@ -3151,7 +4345,29 @@
       "type": "Problem",
       "slides": [
         106
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            58,
+            100,
+            42
+          ]
+        ]
+      },
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          10.6717
+        ],
+        "labels": [
+          "gravitational acceleration (m/s²)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "gravitational acceleration (m/s²): 10.6717"
+      }
     },
     {
       "deck": 13,
@@ -3161,7 +4377,17 @@
         112,
         113,
         114
-      ]
+      ],
+      "hiddenRegions": {
+        "0": [
+          [
+            0,
+            67,
+            100,
+            33
+          ]
+        ]
+      }
     },
     {
       "deck": 13,
@@ -3170,7 +4396,21 @@
       "slides": [
         126,
         127
-      ]
+      ],
+      "answerKey": {
+        "kind": "numeric",
+        "values": [
+          0.39255,
+          1.73205
+        ],
+        "labels": [
+          "damped frequency (Hz)",
+          "critical b (kg/s)"
+        ],
+        "relativeTolerance": 0.02,
+        "absoluteTolerance": 1e-06,
+        "display": "damped frequency (Hz): 0.39255; critical b (kg/s): 1.73205"
+      }
     }
   ]
 }

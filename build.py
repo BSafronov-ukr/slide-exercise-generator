@@ -2,6 +2,7 @@
 import argparse
 import collections
 import json
+import re
 import shutil
 import subprocess
 import tempfile
@@ -74,6 +75,8 @@ def build(source, config, output, soffice):
                             page.close()
                             rendered.add(n)
                     e['text'] = '\n'.join(texts)
+                    if e.get('removeAnswerLines'):
+                        e['promptText'] = re.sub(r'(?im)^.*?\b(?:Ans\.|Answer\s*:)[^\n]*', '', texts[0])
                     exercises.append(e)
             finally:
                 pdf.close()
