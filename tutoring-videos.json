@@ -1,0 +1,185 @@
+[
+  {
+    "topic": "Vectors",
+    "id": "EwSHKuSxX_8",
+    "title": "Vectors - Basic Introduction - Physics",
+    "url": "https://www.youtube.com/watch?v=EwSHKuSxX_8",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Resolve components, add vectors, and distinguish magnitude from direction.",
+    "decks": [
+      1
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEwSHKuSxX_8&format=json"
+  },
+  {
+    "topic": "Kinematics",
+    "id": "dHjWVlfNraM",
+    "title": "Kinematics In One Dimension - Physics",
+    "url": "https://www.youtube.com/watch?v=dHjWVlfNraM",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Choose constant-acceleration equations and track signs and units.",
+    "decks": [
+      2
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdHjWVlfNraM&format=json"
+  },
+  {
+    "topic": "Projectile motion",
+    "id": "tfItlGfPHyo",
+    "title": "How To Solve Projectile Motion Problems In Physics",
+    "url": "https://www.youtube.com/watch?v=tfItlGfPHyo",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Separate horizontal and vertical motion using their shared flight time.",
+    "decks": [
+      3
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtfItlGfPHyo&format=json"
+  },
+  {
+    "topic": "Newton’s laws",
+    "id": "g550H4e5FCY",
+    "title": "Newton's Law of Motion - First, Second & Third - Physics",
+    "url": "https://www.youtube.com/watch?v=g550H4e5FCY",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Connect net force, mass, and acceleration and identify action–reaction pairs.",
+    "decks": [
+      4
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg550H4e5FCY&format=json"
+  },
+  {
+    "topic": "Circular motion",
+    "id": "_psIWtPBHzA",
+    "title": "Centripetal Acceleration & Force - Circular Motion, Banked Curves, Static Friction, Physics Problems",
+    "url": "https://www.youtube.com/watch?v=_psIWtPBHzA",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Set up inward force equations for curves, friction, and banked roads.",
+    "decks": [
+      5
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_psIWtPBHzA&format=json"
+  },
+  {
+    "topic": "Work and energy",
+    "id": "_MR1Dp8-F8w",
+    "title": "Work, Energy, and Power - Basic Introduction",
+    "url": "https://www.youtube.com/watch?v=_MR1Dp8-F8w",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Review work, kinetic and potential energy, and power before choosing an energy model.",
+    "decks": [
+      6,
+      7
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_MR1Dp8-F8w&format=json"
+  },
+  {
+    "topic": "Momentum and impulse",
+    "id": "hODlmGK7pl8",
+    "title": "Introduction to Impulse & Momentum - Physics",
+    "url": "https://www.youtube.com/watch?v=hODlmGK7pl8",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Use the impulse–momentum theorem and interpret force–time graphs.",
+    "decks": [
+      8
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhODlmGK7pl8&format=json"
+  },
+  {
+    "topic": "Collisions",
+    "id": "FfaEbqmvKQA",
+    "title": "Impulse and Momentum Conservation - Inelastic & Elastic Collisions",
+    "url": "https://www.youtube.com/watch?v=FfaEbqmvKQA",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Compare elastic and inelastic collisions and apply momentum conservation.",
+    "decks": [
+      8
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFfaEbqmvKQA&format=json"
+  },
+  {
+    "topic": "Rotational motion",
+    "id": "WQ9AH2S8B6Y",
+    "title": "Rotational Motion Physics, Basic Introduction, Angular Velocity & Tangential Acceleration",
+    "url": "https://www.youtube.com/watch?v=WQ9AH2S8B6Y",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Relate angular position, velocity, and acceleration to their linear counterparts.",
+    "decks": [
+      9
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWQ9AH2S8B6Y&format=json"
+  },
+  {
+    "topic": "Angular momentum",
+    "id": "WzjIMuf-yuo",
+    "title": "Angular Momentum - Basic Introduction, Torque, Inertia, Conservation of Angular Momentum",
+    "url": "https://www.youtube.com/watch?v=WzjIMuf-yuo",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Connect torque, inertia, and angular momentum conservation.",
+    "decks": [
+      10
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWzjIMuf-yuo&format=json"
+  },
+  {
+    "topic": "Equilibrium",
+    "id": "qGvFAl5CK_c",
+    "title": "Static Equilibrium - Tension, Torque, Lever, Beam, & Ladder Problem - Physics",
+    "url": "https://www.youtube.com/watch?v=qGvFAl5CK_c",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Balance both force and torque for beams, cables, levers, and ladders.",
+    "decks": [
+      11
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqGvFAl5CK_c&format=json"
+  },
+  {
+    "topic": "Gravitation",
+    "id": "8CykJ3NgBQs",
+    "title": "Gravity and the Universal Law of Gravitation - Physics",
+    "url": "https://www.youtube.com/watch?v=8CykJ3NgBQs",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Apply the inverse-square gravitational force and distinguish mass from weight.",
+    "decks": [
+      12
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8CykJ3NgBQs&format=json"
+  },
+  {
+    "topic": "Oscillations",
+    "id": "_Gnke2x3vT8",
+    "title": "How To Solve Simple Harmonic Motion Problems In Physics",
+    "url": "https://www.youtube.com/watch?v=_Gnke2x3vT8",
+    "channel": "The Organic Chemistry Tutor",
+    "channelUrl": "https://www.youtube.com/@TheOrganicChemistryTutor",
+    "why": "Practice spring and pendulum models, period, energy, and simple harmonic motion.",
+    "decks": [
+      13
+    ],
+    "verified": "2026-10-26",
+    "verificationSource": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_Gnke2x3vT8&format=json"
+  }
+]

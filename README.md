@@ -98,3 +98,9 @@ This is a study aid, not an exam-security system: static keys and source images 
 
 The application code is available under the GPL-3.0 license already selected for this repository. Presentation contents retain their existing ownership and are not included under that license.
 
+
+## Tutoring videos
+
+The page includes 13 topic-organized lessons from The Organic Chemistry Tutor, covering vectors through oscillations. Each link opens the official YouTube video in a new tab. No player, video thumbnail, or YouTube script loads before a visitor chooses a link. Internet access is needed to watch; exercise practice still works offline. The tutorials have independent examples and do not change the slide exercise numbers.
+
+`tutoring-videos.json` records the verified titles, official channel, topic fit, and source links. The resource cards are static HTML in `index.html`; edit that section to change the displayed selection. This metadata and the generator code contain no course slide content or study guide.
