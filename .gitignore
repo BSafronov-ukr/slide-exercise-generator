@@ -1,0 +1,7 @@
+source/
+.cache/
+__pycache__/
+.venv/
+*.pptx
+*.pdf
+*.docx

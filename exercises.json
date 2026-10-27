@@ -1,0 +1,3176 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Chapter 1 Part 2 - Vectors.pptx"
+    },
+    {
+      "id": 2,
+      "name": "Chapter 2 - Motion Along a Straight Line.pptx"
+    },
+    {
+      "id": 3,
+      "name": "Chapter 3 - Motion in Two or Three dimensions.pptx"
+    },
+    {
+      "id": 4,
+      "name": "Chapter 4 & 5- Newton’s Laws of Motion & Applying Newton's Laws.pptx"
+    },
+    {
+      "id": 5,
+      "name": "Chapter 5 Part 2-Circular Motion and Other Applications of Newton’s Laws.pptx"
+    },
+    {
+      "id": 6,
+      "name": "Chapter 6 & 7 - Work, Kinetic Energy and Potential Energy.pptx"
+    },
+    {
+      "id": 7,
+      "name": "Chapter 7 Part 2 - Energy Conservation.pptx"
+    },
+    {
+      "id": 8,
+      "name": "Chapter 8- Momentum, Impulse, and Collisions.pptx"
+    },
+    {
+      "id": 9,
+      "name": "Chapter 9- Rotation of Rigid Bodies(1).pptx"
+    },
+    {
+      "id": 10,
+      "name": "Chapter 10- Dynamics of Rotational Motion(1).pptx"
+    },
+    {
+      "id": 11,
+      "name": "Chapter 11- Equilibrium and Elasticity.pptx"
+    },
+    {
+      "id": 12,
+      "name": "Chapter 13- Gravitation.pptx"
+    },
+    {
+      "id": 13,
+      "name": "Chapter 14- Periodic Motion.pptx"
+    }
+  ],
+  "exercises": [
+    {
+      "deck": 1,
+      "title": "Example",
+      "type": "Worked example",
+      "slides": [
+        12
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Example 1:  Sum of Vectors",
+      "type": "Worked example",
+      "slides": [
+        56
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Example 2:  Car Ride",
+      "type": "Worked example",
+      "slides": [
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Example 3:  Taking a Hike",
+      "type": "Worked example",
+      "slides": [
+        63,
+        64
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        65,
+        66
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        67,
+        68
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        69,
+        70
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        71,
+        72
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        73,
+        74
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Example 2:  The Scalar Product",
+      "type": "Worked example",
+      "slides": [
+        81,
+        82
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        83
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Problem 8",
+      "type": "Problem",
+      "slides": [
+        84,
+        85
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Example 3:  The Cross Product",
+      "type": "Worked example",
+      "slides": [
+        95
+      ]
+    },
+    {
+      "deck": 1,
+      "title": "Example 4: The Vector Product",
+      "type": "Worked example",
+      "slides": [
+        96,
+        97
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        15
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        16
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Quick Quiz 2.2",
+      "type": "Concept check",
+      "slides": [
+        17,
+        18
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Quick Quiz 2.3",
+      "type": "Concept check",
+      "slides": [
+        20,
+        21
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Example 2.3:  Average and Instantaneous Velocity",
+      "type": "Worked example",
+      "slides": [
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Example 2.4:  Modeling a Runner as a Particle",
+      "type": "Worked example",
+      "slides": [
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Quick Quiz 2.4",
+      "type": "Concept check",
+      "slides": [
+        36
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Quick Quiz 2.5",
+      "type": "Concept check",
+      "slides": [
+        38,
+        39
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Conceptual Example 2.5: Graphical Relationships Between  x ,  v x , and  a x",
+      "type": "Worked example",
+      "slides": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Example 2.6:  Average and Instantaneous Acceleration",
+      "type": "Worked example",
+      "slides": [
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Quick Quiz 2.6",
+      "type": "Concept check",
+      "slides": [
+        46,
+        47
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Example 2.7:  Carrier Landing",
+      "type": "Worked example",
+      "slides": [
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Example 2.8: Watch Out for the Speed Limit!",
+      "type": "Worked example",
+      "slides": [
+        58,
+        59,
+        60,
+        61
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        62
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 8",
+      "type": "Problem",
+      "slides": [
+        63,
+        64
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 26",
+      "type": "Problem",
+      "slides": [
+        65,
+        66
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 35",
+      "type": "Problem",
+      "slides": [
+        67,
+        68
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Quick Quiz 2.8 Part I",
+      "type": "Concept check",
+      "slides": [
+        81,
+        82
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Quick Quiz 2.8 Part II",
+      "type": "Concept check",
+      "slides": [
+        83,
+        84
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Example 2.10:  Not a Bad Throw for a Rookie!",
+      "type": "Worked example",
+      "slides": [
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 10",
+      "type": "Problem",
+      "slides": [
+        91
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 11",
+      "type": "Problem",
+      "slides": [
+        92,
+        93
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 12",
+      "type": "Problem",
+      "slides": [
+        94,
+        95
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 13",
+      "type": "Problem",
+      "slides": [
+        96,
+        97
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 14",
+      "type": "Problem",
+      "slides": [
+        98,
+        99
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 15",
+      "type": "Problem",
+      "slides": [
+        100,
+        101
+      ]
+    },
+    {
+      "deck": 2,
+      "title": "Problem 16",
+      "type": "Problem",
+      "slides": [
+        102,
+        103
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Example 2:  The Long Jump",
+      "type": "Worked example",
+      "slides": [
+        37,
+        38
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Quick Quiz 1 Part I",
+      "type": "Concept check",
+      "slides": [
+        39,
+        40
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Quick Quiz 1 Part II",
+      "type": "Concept check",
+      "slides": [
+        41,
+        42
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem",
+      "type": "Problem",
+      "slides": [
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        51,
+        52
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Example 4:  That’s Quite an Arm",
+      "type": "Worked example",
+      "slides": [
+        53,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        57,
+        58
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        59,
+        60
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        61,
+        62
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        63,
+        64
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        65
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Example 5:  The End of the Ski Jump",
+      "type": "Worked example",
+      "slides": [
+        66,
+        67
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Quick Quiz 2 Part I",
+      "type": "Concept check",
+      "slides": [
+        84,
+        85
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Quick Quiz 2 Part II",
+      "type": "Concept check",
+      "slides": [
+        86,
+        87
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Example 6:  Over the Rise",
+      "type": "Worked example",
+      "slides": [
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        91,
+        92
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Quick Quiz 4 Part I",
+      "type": "Concept check",
+      "slides": [
+        100,
+        101
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Quick Quiz 4 Part II",
+      "type": "Concept check",
+      "slides": [
+        102,
+        103
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Example 6:  The Centripetal Acceleration of the Earth",
+      "type": "Worked example",
+      "slides": [
+        104
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem 8",
+      "type": "Problem",
+      "slides": [
+        105,
+        106
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Problem 9",
+      "type": "Problem",
+      "slides": [
+        107,
+        108
+      ]
+    },
+    {
+      "deck": 3,
+      "title": "Example 7:  A Boat Crossing a River",
+      "type": "Worked example",
+      "slides": [
+        114,
+        115,
+        116,
+        117
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        39,
+        40
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Quick Quiz 1",
+      "type": "Concept check",
+      "slides": [
+        52,
+        53
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Quick Quiz 2 Part I",
+      "type": "Concept check",
+      "slides": [
+        58,
+        59
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Quick Quiz 2 Part II",
+      "type": "Concept check",
+      "slides": [
+        60,
+        61
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        71,
+        72
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Example 4:  A Traffic Light at Rest",
+      "type": "Worked example",
+      "slides": [
+        77,
+        78,
+        79,
+        80,
+        81
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Quick Quiz 3",
+      "type": "Concept check",
+      "slides": [
+        88,
+        89
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Example 5 The Runaway Car",
+      "type": "Worked example",
+      "slides": [
+        91,
+        92,
+        93,
+        94
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Example 6 The Atwood Machine",
+      "type": "Worked example",
+      "slides": [
+        97,
+        98,
+        99
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Example 7 One Block Pushes Another",
+      "type": "Worked example",
+      "slides": [
+        100,
+        101,
+        102,
+        103,
+        104
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        105,
+        106
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        107,
+        108
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        109,
+        110
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        111,
+        112
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Example 8 Experimental Determination of   s  and   k",
+      "type": "Worked example",
+      "slides": [
+        127,
+        128
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Example 9 The Sliding Hockey Puck",
+      "type": "Worked example",
+      "slides": [
+        129,
+        130
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        133
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        135,
+        136
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 8",
+      "type": "Problem",
+      "slides": [
+        137,
+        138
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 9",
+      "type": "Problem",
+      "slides": [
+        139,
+        140,
+        141
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 10",
+      "type": "Problem",
+      "slides": [
+        142,
+        143,
+        144
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Problem 11",
+      "type": "Problem",
+      "slides": [
+        145,
+        146
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        147
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        148
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        149
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        150
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        151
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        152
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        153
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        154
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        155
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        156
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        157
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        158
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        159
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        160
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        161
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        162
+      ]
+    },
+    {
+      "deck": 4,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        163
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Example 1:  The Conical Pendulum",
+      "type": "Worked example",
+      "slides": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Example 2: How Fast Can It Spin?",
+      "type": "Worked example",
+      "slides": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Example 3: What Is the Maximum Speed of the Car?",
+      "type": "Worked example",
+      "slides": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Example 4: The Banked Roadway",
+      "type": "Worked example",
+      "slides": [
+        22,
+        23
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Example 5: Riding the Ferris Wheel",
+      "type": "Worked example",
+      "slides": [
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        28,
+        29
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        30,
+        31
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Quick Quiz 1 Part I",
+      "type": "Concept check",
+      "slides": [
+        33
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Quick Quiz 1 Part I",
+      "type": "Concept check",
+      "slides": [
+        34
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Quick Quiz 2 Part II",
+      "type": "Concept check",
+      "slides": [
+        35
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Quick Quiz 2 Part II",
+      "type": "Concept check",
+      "slides": [
+        36
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Example 6: Keep Your Eye on the Ball",
+      "type": "Worked example",
+      "slides": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        43,
+        44
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        45,
+        46
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        55,
+        56
+      ]
+    },
+    {
+      "deck": 5,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        57,
+        58
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Quick Quiz 7.2",
+      "type": "Concept check",
+      "slides": [
+        20,
+        21
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Quick Quiz 7.1",
+      "type": "Concept check",
+      "slides": [
+        22,
+        23
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Example 1: Mr. Clean",
+      "type": "Worked example",
+      "slides": [
+        24
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        25,
+        26
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Example 2:  Calculating Total Work Done from a Graph",
+      "type": "Worked example",
+      "slides": [
+        36,
+        37
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        38,
+        39
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Example 3:  The Scalar Product",
+      "type": "Worked example",
+      "slides": [
+        44,
+        45
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Example 4: Work Done by a Constant Force",
+      "type": "Worked example",
+      "slides": [
+        46
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        47
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        48,
+        49
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Example 5   Deep Space 1",
+      "type": "Worked example",
+      "slides": [
+        57,
+        58
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        59,
+        60
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        61,
+        62
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Quick Quiz 7.4",
+      "type": "Concept check",
+      "slides": [
+        71,
+        72
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Example 7.5: Measuring  k  for a Spring",
+      "type": "Worked example",
+      "slides": [
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        76,
+        77
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Quick Quiz 6",
+      "type": "Concept check",
+      "slides": [
+        83,
+        84
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem",
+      "type": "Problem",
+      "slides": [
+        85
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Example 8: The Proud Athlete and the Sore Toe",
+      "type": "Worked example",
+      "slides": [
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        89,
+        90
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Quick Quiz 7 Part I",
+      "type": "Concept check",
+      "slides": [
+        97,
+        98
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        105,
+        106
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Example 9: Force and Energy on an Atomic Scale",
+      "type": "Worked example",
+      "slides": [
+        110,
+        111,
+        112
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        117,
+        118
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 8",
+      "type": "Problem",
+      "slides": [
+        119,
+        120
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 9",
+      "type": "Problem",
+      "slides": [
+        121,
+        122,
+        123
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem",
+      "type": "Problem",
+      "slides": [
+        132
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Example 11: Power Delivered by an Elevator Motor",
+      "type": "Worked example",
+      "slides": [
+        133,
+        134,
+        135,
+        136
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 10",
+      "type": "Problem",
+      "slides": [
+        137,
+        138
+      ]
+    },
+    {
+      "deck": 6,
+      "title": "Problem 11",
+      "type": "Problem",
+      "slides": [
+        139,
+        140
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "A bike rider approaches a hill with speed of 6.3 m/s. the total mass of the bike and rider is 85 kg. Use conservation of energy to find the height at which the bike will come to a stop.",
+      "type": "Problem",
+      "slides": [
+        22,
+        23
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        27,
+        28
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        29,
+        30
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        31
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Example 1",
+      "type": "Worked example",
+      "slides": [
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        38
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Example 3",
+      "type": "Worked example",
+      "slides": [
+        39,
+        40
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "The coefficient of friction between the block of mass m 1​ =3.00kg and the surface in Figure is  μ k ​=0.400 The system starts from rest What is the speed of the ball of mass m 2 ​=5.00 kg when it has fallen a distance h=1.50m?",
+      "type": "Problem",
+      "slides": [
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 9",
+      "type": "Problem",
+      "slides": [
+        44,
+        45
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 10",
+      "type": "Problem",
+      "slides": [
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 11",
+      "type": "Problem",
+      "slides": [
+        50,
+        51
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 12",
+      "type": "Problem",
+      "slides": [
+        52,
+        53
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "Problem 13",
+      "type": "Problem",
+      "slides": [
+        54,
+        55
+      ]
+    },
+    {
+      "deck": 7,
+      "title": "A block of mass .500kg is pushed against a horizontal spring of negligible mass until the spring is compressed a distance x. The force constant of the spring is 450 N/m. When it is released, the block travels along a frictionless, horizontal track of radius R=1.00m, and continues to move along the track. The speed of the block at the bottom of the track is V B  = 12.0m/s, and the block experiences an average friction force of 7.00Nwhilesliding up the track.",
+      "type": "Problem",
+      "slides": [
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Quick Quiz 1",
+      "type": "Concept check",
+      "slides": [
+        12
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Quick Quiz 1",
+      "type": "Concept check",
+      "slides": [
+        13
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        24
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 1:  How Good Are the Bumpers?",
+      "type": "Worked example",
+      "slides": [
+        26,
+        27
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "A hockey goalie is standing on ice. Another player fires a puck  (m=0.17kg) at the goalie with a velocity of +65m/s.",
+      "type": "Problem",
+      "slides": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Quick Quiz 2",
+      "type": "Concept check",
+      "slides": [
+        31,
+        32
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Quick Quiz 3",
+      "type": "Concept check",
+      "slides": [
+        33,
+        34
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        35
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        36
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 2: The Archer",
+      "type": "Worked example",
+      "slides": [
+        41,
+        42
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 3: Ice Skaters",
+      "type": "Worked example",
+      "slides": [
+        43,
+        44
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 4: Assembling Freight Trains",
+      "type": "Worked example",
+      "slides": [
+        45
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        46
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 5: Carry Collision Insurance\t!",
+      "type": "Worked example",
+      "slides": [
+        58
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 8",
+      "type": "Problem",
+      "slides": [
+        59
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 9",
+      "type": "Problem",
+      "slides": [
+        60
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 10",
+      "type": "Problem",
+      "slides": [
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Quick Quiz 5",
+      "type": "Concept check",
+      "slides": [
+        77,
+        78
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Quick Quiz 6",
+      "type": "Concept check",
+      "slides": [
+        79,
+        80
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "A 5.00-kg ball, moving to the right at a velocity of  +2m/s on a frictionless table, collides head-on with a stationary 7.50-kg ball. Find the final velocities of the balls if the collision is",
+      "type": "Problem",
+      "slides": [
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 12",
+      "type": "Problem",
+      "slides": [
+        84
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 13",
+      "type": "Problem",
+      "slides": [
+        85,
+        86,
+        87
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 7: A Two-Body Collision with a Spring",
+      "type": "Worked example",
+      "slides": [
+        88,
+        89,
+        90,
+        91,
+        92,
+        93
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 8: A Ballistic Pendulum",
+      "type": "Worked example",
+      "slides": [
+        94,
+        95,
+        96,
+        97
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 9: Collisions at an Intersection",
+      "type": "Worked example",
+      "slides": [
+        102,
+        103
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 10: Proton-Proton Collision",
+      "type": "Worked example",
+      "slides": [
+        104,
+        105,
+        106
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 13",
+      "type": "Problem",
+      "slides": [
+        107,
+        108
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 11: The Center of Mass of a Rod",
+      "type": "Worked example",
+      "slides": [
+        122,
+        123,
+        124,
+        125
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 12: The Center of Mass of Three Particles",
+      "type": "Worked example",
+      "slides": [
+        126,
+        127,
+        128
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 14",
+      "type": "Problem",
+      "slides": [
+        129,
+        130
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Conceptual Example 13: Exploding Projectile",
+      "type": "Worked example",
+      "slides": [
+        139
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Quick Quiz 8",
+      "type": "Concept check",
+      "slides": [
+        140,
+        141
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 14: The Exploding Rocket",
+      "type": "Worked example",
+      "slides": [
+        142,
+        143
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Problem 15",
+      "type": "Problem",
+      "slides": [
+        144,
+        145,
+        146,
+        147,
+        148
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 15: A Rocket in Space",
+      "type": "Worked example",
+      "slides": [
+        154,
+        155,
+        156
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 16: Fighting a Fire",
+      "type": "Worked example",
+      "slides": [
+        157
+      ]
+    },
+    {
+      "deck": 8,
+      "title": "Example 17:  Can We Ignore the Kinetic energy of the Earth?",
+      "type": "Worked example",
+      "slides": [
+        158,
+        159,
+        160
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Quick Quiz 1",
+      "type": "Concept check",
+      "slides": [
+        18,
+        19
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        20,
+        21
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        22,
+        23
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Example 1: Rotating Wheel",
+      "type": "Worked example",
+      "slides": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        35,
+        36
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        37,
+        38
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Quick Quiz 2 Part I",
+      "type": "Concept check",
+      "slides": [
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Example 2 CD Player",
+      "type": "Worked example",
+      "slides": [
+        53,
+        54
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Example 2: CD Player",
+      "type": "Worked example",
+      "slides": [
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        58,
+        59
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Example 3: Helicopter Blade",
+      "type": "Worked example",
+      "slides": [
+        60
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Example 4: A Discus Thrower",
+      "type": "Worked example",
+      "slides": [
+        61
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        62,
+        63
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        64,
+        65
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 8",
+      "type": "Problem",
+      "slides": [
+        66,
+        67
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Quick Quiz 10.6",
+      "type": "Concept check",
+      "slides": [
+        78,
+        79
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Example 5: An Unusual Baton",
+      "type": "Worked example",
+      "slides": [
+        80,
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 9",
+      "type": "Problem",
+      "slides": [
+        84,
+        85
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 10",
+      "type": "Problem",
+      "slides": [
+        86,
+        87
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 11",
+      "type": "Problem",
+      "slides": [
+        88,
+        89
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 12",
+      "type": "Problem",
+      "slides": [
+        90,
+        91,
+        92
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Example 6: Uniform Rigid Rod",
+      "type": "Worked example",
+      "slides": [
+        96,
+        97
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Example 7: Uniform Solid Cylinder",
+      "type": "Worked example",
+      "slides": [
+        98,
+        99,
+        100
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 13",
+      "type": "Problem",
+      "slides": [
+        101,
+        102
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Example 8: Applying the Parallel-Axis Theorem",
+      "type": "Worked example",
+      "slides": [
+        108,
+        109
+      ]
+    },
+    {
+      "deck": 9,
+      "title": "Problem 40",
+      "type": "Problem",
+      "slides": [
+        111,
+        112
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 1: The Net Torque on a Cylinder",
+      "type": "Worked example",
+      "slides": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        21,
+        22
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Quick Quiz 1",
+      "type": "Concept check",
+      "slides": [
+        29,
+        30
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 2: The Torque Vector",
+      "type": "Worked example",
+      "slides": [
+        31,
+        32
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 3: Rotating Rod",
+      "type": "Worked example",
+      "slides": [
+        44,
+        45
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 4: Angular Acceleration of a Wheel",
+      "type": "Worked example",
+      "slides": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 5: Rotating Rod Revisited",
+      "type": "Worked example",
+      "slides": [
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 7: Energy and the Atwood Machine",
+      "type": "Worked example",
+      "slides": [
+        53,
+        54
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        58,
+        59
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Quick Quiz 2",
+      "type": "Concept check",
+      "slides": [
+        69,
+        70
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 8: Sphere Rolling Down and Incline",
+      "type": "Worked example",
+      "slides": [
+        71,
+        72
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        73,
+        74
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        75,
+        76
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        77,
+        78
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 9: Pulling on a Spool",
+      "type": "Worked example",
+      "slides": [
+        80,
+        81,
+        82
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Quick Quiz 3 Part I",
+      "type": "Concept check",
+      "slides": [
+        87,
+        88
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Quick Quiz 3 Part II",
+      "type": "Concept check",
+      "slides": [
+        89,
+        90
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 11: Angular Momentum of a  Particle in Uniform Circular Motion",
+      "type": "Worked example",
+      "slides": [
+        91
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 8",
+      "type": "Problem",
+      "slides": [
+        92,
+        93
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 9",
+      "type": "Problem",
+      "slides": [
+        94,
+        95
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 12: A System of Objects",
+      "type": "Worked example",
+      "slides": [
+        100,
+        101
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Quick Quiz 3",
+      "type": "Concept check",
+      "slides": [
+        104,
+        105
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 13: The Seesaw",
+      "type": "Worked example",
+      "slides": [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Quick Quiz 4",
+      "type": "Concept check",
+      "slides": [
+        119,
+        120
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 14: Formation of a Neutron Star",
+      "type": "Worked example",
+      "slides": [
+        121,
+        122
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 15: The Merry-Go-Round",
+      "type": "Worked example",
+      "slides": [
+        123,
+        124,
+        125
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Example 16: Disk and Stick Collision",
+      "type": "Worked example",
+      "slides": [
+        126,
+        127,
+        128,
+        129,
+        130
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 10",
+      "type": "Problem",
+      "slides": [
+        131,
+        132
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 11",
+      "type": "Problem",
+      "slides": [
+        133,
+        134
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 12",
+      "type": "Problem",
+      "slides": [
+        135
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Problem 34",
+      "type": "Problem",
+      "slides": [
+        136
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        142
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        143
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        144
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        145
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        146
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        147
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        148
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        149
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        150
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        151
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        152
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        153
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        154
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        155
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        156
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        157
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        158
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        159
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        160
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        161
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        162
+      ]
+    },
+    {
+      "deck": 10,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        163
+      ]
+    },
+    {
+      "deck": 11,
+      "title": "Example 1: A Diving Board",
+      "type": "Worked example",
+      "slides": [
+        17,
+        18
+      ]
+    },
+    {
+      "deck": 11,
+      "title": "Example 2: Bodybuilding",
+      "type": "Worked example",
+      "slides": [
+        19,
+        20
+      ]
+    },
+    {
+      "deck": 11,
+      "title": "Example 3: Center of Gravity of an Arm",
+      "type": "Worked example",
+      "slides": [
+        26,
+        27
+      ]
+    },
+    {
+      "deck": 11,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        28,
+        29
+      ]
+    },
+    {
+      "deck": 11,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        30,
+        31
+      ]
+    },
+    {
+      "deck": 11,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        32,
+        33
+      ]
+    },
+    {
+      "deck": 11,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "deck": 11,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        37,
+        38
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Quick Quiz 1",
+      "type": "Concept check",
+      "slides": [
+        11,
+        12
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Example 1:",
+      "type": "Worked example",
+      "slides": [
+        13
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Example 2: Billiards, Anyone?",
+      "type": "Worked example",
+      "slides": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        17
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Section  13.1",
+      "type": "Problem",
+      "slides": [
+        18
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        19,
+        20
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Quick Quiz 2",
+      "type": "Concept check",
+      "slides": [
+        28,
+        29
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Example 3: The Density of the Earth",
+      "type": "Worked example",
+      "slides": [
+        30,
+        31
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Example 4:  The Weight of the Space Station",
+      "type": "Worked example",
+      "slides": [
+        33,
+        34
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        35,
+        36
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        37,
+        38
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Quick Quiz 3",
+      "type": "Concept check",
+      "slides": [
+        64,
+        65
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Example 5: The Mass of the Sun",
+      "type": "Worked example",
+      "slides": [
+        66,
+        67
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Example 6: A Geosynchronous Satellite",
+      "type": "Worked example",
+      "slides": [
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Example 7: The Change in Potential Energy",
+      "type": "Worked example",
+      "slides": [
+        79,
+        80
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Quick Quiz 4 Part I",
+      "type": "Concept check",
+      "slides": [
+        84,
+        85
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Quick Quiz 4 Part II",
+      "type": "Concept check",
+      "slides": [
+        86,
+        87
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Quick Quiz 4 Part III",
+      "type": "Concept check",
+      "slides": [
+        88
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Quick Quiz 4 Part III",
+      "type": "Concept check",
+      "slides": [
+        89
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Quick Quiz 4 Part IV",
+      "type": "Concept check",
+      "slides": [
+        90,
+        91
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Example 8: Changing the Orbit of a Satellite",
+      "type": "Worked example",
+      "slides": [
+        92,
+        93
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Example 9: Escape Speed of a Rock",
+      "type": "Worked example",
+      "slides": [
+        96
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        118
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        119
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        120
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        121
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        122
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        123
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        124
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        125
+      ]
+    },
+    {
+      "deck": 12,
+      "title": "Assessing to Learn",
+      "type": "Concept check",
+      "slides": [
+        126
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Quick Quiz 1",
+      "type": "Concept check",
+      "slides": [
+        9,
+        10
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Problem 1",
+      "type": "Problem",
+      "slides": [
+        15
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Quick Quiz 2",
+      "type": "Concept check",
+      "slides": [
+        38,
+        39
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Quick Quiz 3",
+      "type": "Concept check",
+      "slides": [
+        40,
+        41
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Quick Quiz 4",
+      "type": "Concept check",
+      "slides": [
+        45,
+        46
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Example 1: A Block-Spring System",
+      "type": "Worked example",
+      "slides": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Problem 2",
+      "type": "Problem",
+      "slides": [
+        54
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Problem 3",
+      "type": "Problem",
+      "slides": [
+        55,
+        56
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Example 3: Oscillations on a Horizontal Surface",
+      "type": "Worked example",
+      "slides": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Quick Quiz 5",
+      "type": "Concept check",
+      "slides": [
+        81,
+        82
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Example 4: Circular Motion with Constant Angular Speed",
+      "type": "Worked example",
+      "slides": [
+        83,
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Problem 4",
+      "type": "Problem",
+      "slides": [
+        87,
+        88
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Problem 5",
+      "type": "Problem",
+      "slides": [
+        89,
+        90
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Quick Quiz 6 Part I",
+      "type": "Concept check",
+      "slides": [
+        99,
+        100
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Quick Quiz 6 Part II",
+      "type": "Concept check",
+      "slides": [
+        101,
+        102,
+        103
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Example 5:  A Connection Between Length and Time",
+      "type": "Worked example",
+      "slides": [
+        104,
+        105
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Problem 6",
+      "type": "Problem",
+      "slides": [
+        106
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Example 6: A Swinging Rod",
+      "type": "Worked example",
+      "slides": [
+        112,
+        113,
+        114
+      ]
+    },
+    {
+      "deck": 13,
+      "title": "Problem 7",
+      "type": "Problem",
+      "slides": [
+        126,
+        127
+      ]
+    }
+  ]
+}
