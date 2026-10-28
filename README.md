@@ -105,3 +105,14 @@ The application code is available under the GPL-3.0 license already selected for
 The page includes 13 topic-organized lessons from The Organic Chemistry Tutor, covering vectors through oscillations. Each link opens the official YouTube video in a new tab. No player, video thumbnail, or YouTube script loads before a visitor chooses a link. Internet access is needed to watch; exercise practice still works offline. The tutorials have independent examples and do not change the slide exercise numbers.
 
 `tutoring-videos.json` records the verified titles, official channel, topic fit, and source links. The resource cards are static HTML in `index.html`; edit that section to change the displayed selection. This metadata and the generator code contain no course slide content or study guide.
+
+
+## Instructor explanation clips and focused review
+
+Save an exercise for review using its star button. The session filter can show saved exercises, previously missed exercises, or exercises with verified instructor clips. Bookmarks, attempts, and notes remain in this browser.
+
+The Answers view can show a problem-specific MP4 after the existing answer gate has unlocked and the user explicitly opens Answers. It loads only after pressing **Load explanation**. Native video controls, replay, and playback speed are provided. Changing exercises removes the previous player. Exercises without a verified recording display an honest unavailable message.
+
+`study-tools.js` implements these features. Include it and `instructor-clips.js` alongside the other scripts when self-hosting. The public clip manifest is empty: instructor recordings, Canvas links, and private timestamp mappings are excluded. Only add recordings you are permitted to use and keep your course deployment private as appropriate. `.gitignore` excludes MP4 files and `lecture-clips/`.
+
+To add your own clips, key `window.INSTRUCTOR_CLIPS.exercises` by the generated exercise ID (shown beside Save for review). Each entry is an array of `{title, recording, startLabel, endLabel, src, canvasUrl}` objects. `src` points to a local trimmed MP4; timestamps describe its location in the original recording. `canvasUrl` is a normal sign-in-protected course page, never an access token or signed media URL. The player uses the trimmed file from its beginning. Playback works offline when the MP4 files are included; the Canvas fallback needs internet access.

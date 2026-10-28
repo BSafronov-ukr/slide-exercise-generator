@@ -5,3 +5,7 @@ __pycache__/
 *.pptx
 *.pdf
 *.docx
+
+lecture-clips/
+*.mp4
+*.webm
