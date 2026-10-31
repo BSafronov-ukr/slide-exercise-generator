@@ -12,4 +12,7 @@ const load=find(panel,n=>n.textContent==='Load explanation');load.onclick();cons
 const speed=find(panel,n=>n.tag==='select');speed.value='1.5';speed.onchange();assert.equal(video.playbackRate,1.5);
 const star=find(head,n=>n.tag==='button');star.onclick();assert(S.matches(e,'saved',{}));assert(S.matches(e,'video',{}));assert(!S.matches({id:'other'},'video',{}));assert(S.matches(e,'retry',{fixture:{attempts:[{results:[{status:'incorrect'}]}]}}));
 star.onclick();assert(!S.matches(e,'saved',{}));
+video.currentTime=5;find(panel,n=>n.textContent==='−10 seconds').onclick();assert.equal(video.currentTime,0);
+video.currentTime=55;video.duration=60;find(panel,n=>n.textContent==='+10 seconds').onclick();assert.equal(video.currentTime,60);
+let paused=false;panel.querySelectorAll=()=>[video,{pause(){paused=true}}];video.onplay();assert(paused);
 console.log('PASS: video absent before two attempts; lazy loading; one player; speed; bookmarks persist; video and missed-answer filters.');

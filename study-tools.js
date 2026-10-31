@@ -16,10 +16,12 @@
   const section=node('section',null,'instructor-panel');section.id='instructor-explanation';section.append(node('div','FROM YOUR CLASSROOM','eyebrow'),node('h3','Your instructor explains this problem'));
   if(!entries.length){section.append(node('p','No exact recording segment has been verified for this exercise yet.','scope'));panel.append(section);return}
   entries.forEach(clip=>{
-   const card=node('div',null,'lecture-clip');card.append(node('h4',clip.title),node('p',`${clip.recording} · ${clip.startLabel}–${clip.endLabel} in the original recording`,'scope'));
+   const card=node('div',null,'lecture-clip');card.append(node('h4',clip.title),node('p',`${clip.recording} · ${clip.startLabel}–${clip.endLabel} in the original recording`,'scope'));if(Number.isFinite(clip.end-clip.start))card.append(node('p',`${Math.ceil((clip.end-clip.start)/60)} min · Approximate recording boundaries`,'scope'));
    const play=node('button','Load explanation','primary'),slot=node('div',null,'lecture-player');
    play.onclick=()=>{if(slot.children.length)return;const video=node('video');video.controls=true;video.preload='metadata';video.playsInline=true;video.setAttribute('aria-label',clip.title+' — instructor explanation');video.src=clip.src;slot.append(video);play.hidden=true;
     const tools=node('div',null,'playback-tools'),replay=node('button','↺ Replay clip'),label=node('label','Playback speed'),speed=node('select');speed.setAttribute('aria-label','Explanation playback speed');[.75,1,1.25,1.5,2].forEach(rate=>{const o=node('option',rate+'×');o.value=rate;if(rate===1)o.selected=true;speed.append(o)});speed.onchange=()=>{video.playbackRate=Number(speed.value)};replay.onclick=()=>{video.currentTime=0;video.play().catch(()=>{})};label.append(speed);tools.append(replay,label);slot.append(tools);
+    video.onplay=()=>{panel.querySelectorAll('video').forEach(other=>{if(other!==video)other.pause()})};
+    const rewind=node('button','−10 seconds'),forward=node('button','+10 seconds');rewind.onclick=()=>{video.currentTime=Math.max(0,video.currentTime-10)};forward.onclick=()=>{video.currentTime=Math.min(Number.isFinite(video.duration)?video.duration:video.currentTime+10,video.currentTime+10)};tools.append(rewind,forward);
     video.onerror=()=>{slot.append(node('p','The clip could not load. Open the original Canvas recording below.','feedback incorrect'))};
    };
    const original=node('a','Open original in Canvas ↗');original.href=clip.canvasUrl;original.target='_blank';original.rel='noopener noreferrer';const fallback=node('p',null,'scope');fallback.append(original);fallback.append(document.createTextNode(' · Canvas sign-in may be required. Seek to '+clip.startLabel+'.'));
